@@ -1,0 +1,728 @@
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS Toyota Program,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ps-toyota-prog@cobalt.com|CN=List- PS Toyota Program
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS Toyota Program,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ps-toyota-prog@main.cobaltgroup.com|CN=List- PS Toyota Program
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS Toyota Program,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ps-toyota-prog@exchange.cobaltgroup.com|CN=List- PS Toyota Program
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS Toyota Program,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:ps-toyota-prog@cobaltgroup.com|CN=List- PS Toyota Program
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS Volvo Program,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:PSVolvoProgram@exchange.Cobaltgroup.com|CN=List- PS Volvo Program
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS Volvo Program,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:PSVolvoProgram@main.cobaltgroup.com|CN=List- PS Volvo Program
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS Volvo Program,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:PSVolvoProgram@cobalt.com|CN=List- PS Volvo Program
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS Volvo Program,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:PSVolvoProgram@cobaltgroup.com|CN=List- PS Volvo Program
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS VW Mexico,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwmexico@exchange.Cobaltgroup.com|CN=List- PS VW Mexico
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS VW Mexico,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:vwmexico@cobaltgroup.com|CN=List- PS VW Mexico
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS VW Mexico,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwmexico2@cobalt.com|CN=List- PS VW Mexico
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS VW Mexico,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwmexico@main.cobaltgroup.com|CN=List- PS VW Mexico
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS VW Packages,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:vwpkgs@cobaltgroup.com|CN=List- PS VW Packages
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS VW Packages,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwpkgs@exchange.Cobaltgroup.com|CN=List- PS VW Packages
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS VW Packages,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwpkgs@cobalt.com|CN=List- PS VW Packages
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS VW Packages,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwpkgs@main.cobaltgroup.com|CN=List- PS VW Packages
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS VW Program,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ps-vw-prog@cobalt.com|CN=List- PS VW Program
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS VW Program,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ps-vw-prog@main.cobaltgroup.com|CN=List- PS VW Program
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS VW Program,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ps-vw-prog@exchange.cobaltgroup.com|CN=List- PS VW Program
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PS VW Program,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:ps-vw-prog@cobaltgroup.com|CN=List- PS VW Program
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Purchasing,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:Purchasing2@cobalt.com|CN=List- Purchasing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Purchasing,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:Purchasing2@exchange.Cobaltgroup.com|CN=List- Purchasing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Purchasing,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:Purchasing2@main.cobaltgroup.com|CN=List- Purchasing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Purchasing,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:Purchasing2@cobaltgroup.com|CN=List- Purchasing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PV QA,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:PVQA@exchange.Cobaltgroup.com|CN=List- PV QA
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PV QA,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:PVQA@cobaltgroup.com|CN=List- PV QA
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PV QA,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:PVQA@cobalt.com|CN=List- PV QA
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PV QA,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:PVQA@main.cobaltgroup.com|CN=List- PV QA
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PV Uptime,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:pvuptime@cobaltgroup.com|CN=List- PV Uptime
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PV Uptime,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:pvuptime@exchange.Cobaltgroup.com|CN=List- PV Uptime
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PV Uptime,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:pvuptime@cobalt.com|CN=List- PV Uptime
+ldap://ldap.main.cobaltgroup.com:389/CN=List- PV Uptime,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:pvuptime@main.cobaltgroup.com|CN=List- PV Uptime
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QA IS/IT,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ISITQA@cobalt.com|CN=List- QA IS/IT
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QA IS/IT,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ISITQA@main.cobaltgroup.com|CN=List- QA IS/IT
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QA IS/IT,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ISITQA@exchange.Cobaltgroup.com|CN=List- QA IS/IT
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QA IS/IT,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:isitqa@cobaltgroup.com|CN=List- QA IS/IT
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QA TAD Results,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QATADResults@exchange.Cobaltgroup.com|CN=List- QA TAD Results
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QA TAD Results,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QATADResults@main.cobaltgroup.com|CN=List- QA TAD Results
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QA TAD Results,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QATADResults@cobalt.com|CN=List- QA TAD Results
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QA TAD Results,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:QATADResults@cobaltgroup.com|CN=List- QA TAD Results
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qc@cobalt.com|CN=List- QC
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qc@exchange.Cobaltgroup.com|CN=List- QC
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qc@main.cobaltgroup.com|CN=List- QC
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:qc@cobaltgroup.com|CN=List- QC
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qccore@exchange.Cobaltgroup.com|CN=List- QC Core
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qccore@main.cobaltgroup.com|CN=List- QC Core
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qccore@cobalt.com|CN=List- QC Core
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:qccore@cobaltgroup.com|CN=List- QC Core
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core In-Market,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCoreIn-Market@exchange.Cobaltgroup.com|CN=List- QC Core In-Market
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core In-Market,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCoreIn-Market@main.cobaltgroup.com|CN=List- QC Core In-Market
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core In-Market,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCoreIn-Market@cobalt.com|CN=List- QC Core In-Market
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core In-Market,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:QCCoreIn-Market@cobaltgroup.com|CN=List- QC Core In-Market
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core Inventory Merchandising,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCoreInventoryMerchandising@exchange.Cobaltgroup.com|CN=List- QC Core Inventory Merchandising
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core Inventory Merchandising,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCoreInventoryMerchandising@main.cobaltgroup.com|CN=List- QC Core Inventory Merchandising
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core Inventory Merchandising,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCoreInventoryMerchandising@cobalt.com|CN=List- QC Core Inventory Merchandising
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core Inventory Merchandising,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:QCCoreInventoryMerchandising@cobaltgroup.com|CN=List- QC Core Inventory Merchandising
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core Mobile,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCoreServices@exchange.Cobaltgroup.com|CN=List- QC Core Mobile
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core Mobile,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCoreServices@main.cobaltgroup.com|CN=List- QC Core Mobile
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core Mobile,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCoreServices@cobalt.com|CN=List- QC Core Mobile
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core Mobile,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:QCCoreServices@cobaltgroup.com|CN=List- QC Core Mobile
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core New Products,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCoreNewProducts@exchange.Cobaltgroup.com|CN=List- QC Core New Products
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core New Products,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCoreNewProducts@main.cobaltgroup.com|CN=List- QC Core New Products
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core New Products,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCoreNewProducts@cobalt.com|CN=List- QC Core New Products
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core New Products,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:QCCoreNewProducts@cobaltgroup.com|CN=List- QC Core New Products
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core Pegasus,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ListQCCorePegasus@exchange.Cobaltgroup.com|CN=List- QC Core Pegasus
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core Pegasus,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ListQCCorePegasus@main.cobaltgroup.com|CN=List- QC Core Pegasus
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core Pegasus,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ListQCCorePegasus@cobalt.com|CN=List- QC Core Pegasus
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core Pegasus,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:ListQCCorePegasus@cobaltgroup.com|CN=List- QC Core Pegasus
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC CORE T2,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCORET2@exchange.Cobaltgroup.com|CN=List- QC CORE T2
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC CORE T2,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCORET2@main.cobaltgroup.com|CN=List- QC CORE T2
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC CORE T2,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCORET2@cobalt.com|CN=List- QC CORE T2
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC CORE T2,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:QCCORET2@cobaltgroup.com|CN=List- QC CORE T2
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core Websites Merchandising,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCoreWebsitesMerchandising@exchange.Cobaltgroup.com|CN=List- QC Core Websites Merchandising
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core Websites Merchandising,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCoreWebsitesMerchandising@main.cobaltgroup.com|CN=List- QC Core Websites Merchandising
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core Websites Merchandising,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCCoreWebsitesMerchandising@cobalt.com|CN=List- QC Core Websites Merchandising
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Core Websites Merchandising,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:QCCoreWebsitesMerchandising@cobaltgroup.com|CN=List- QC Core Websites Merchandising
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC CRM,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qccrm@cobalt.com|CN=List- QC CRM
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC CRM,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qccrm@exchange.Cobaltgroup.com|CN=List- QC CRM
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC CRM,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qccrm@main.cobaltgroup.com|CN=List- QC CRM
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC CRM,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:qccrm@cobaltgroup.com|CN=List- QC CRM
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Leads Core Products,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCLeadsCoreProducts@exchange.Cobaltgroup.com|CN=List- QC Leads Core Products
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Leads Core Products,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCLeadsCoreProducts@main.cobaltgroup.com|CN=List- QC Leads Core Products
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Leads Core Products,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCLeadsCoreProducts@cobalt.com|CN=List- QC Leads Core Products
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Leads Core Products,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:QCLeadsCoreProducts@cobaltgroup.com|CN=List- QC Leads Core Products
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Leads PS,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCLeadsPS@exchange.Cobaltgroup.com|CN=List- QC Leads PS
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Leads PS,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCLeadsPS@main.cobaltgroup.com|CN=List- QC Leads PS
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Leads PS,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCLeadsPS@cobalt.com|CN=List- QC Leads PS
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Leads PS,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:QCLeadsPS@cobaltgroup.com|CN=List- QC Leads PS
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC On Station,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qconstation@cobalt.com|CN=List- QC On Station
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC On Station,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qconstation@exchange.Cobaltgroup.com|CN=List- QC On Station
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC On Station,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qconstation@main.cobaltgroup.com|CN=List- QC On Station
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC On Station,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:qconstation@cobaltgroup.com|CN=List- QC On Station
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC PS,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qcps@cobalt.com|CN=List- QC PS
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC PS,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qcps@exchange.Cobaltgroup.com|CN=List- QC PS
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC PS,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qcps@main.cobaltgroup.com|CN=List- QC PS
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC PS,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:qcps@cobaltgroup.com|CN=List- QC PS
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Reporting,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qcreporting@cobalt.com|CN=List- QC Reporting
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Reporting,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qcreporting@exchange.Cobaltgroup.com|CN=List- QC Reporting
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Reporting,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qcreporting@main.cobaltgroup.com|CN=List- QC Reporting
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Reporting,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:qcreporting@cobaltgroup.com|CN=List- QC Reporting
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Search,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qcsearch@cobalt.com|CN=List- QC Search
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Search,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qcsearch@exchange.Cobaltgroup.com|CN=List- QC Search
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Search,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qcsearch@main.cobaltgroup.com|CN=List- QC Search
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Search,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:qcsearch@cobaltgroup.com|CN=List- QC Search
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Social,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCSocial@exchange.Cobaltgroup.com|CN=List- QC Social
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Social,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCSocial@main.cobaltgroup.com|CN=List- QC Social
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Social,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QCSocial@cobalt.com|CN=List- QC Social
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QC Social,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:QCSocial@cobaltgroup.com|CN=List- QC Social
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QE,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:qe@cobaltgroup.com|CN=List- QE
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QE,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qe@exchange.Cobaltgroup.com|CN=List- QE
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QE,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qe@main.cobaltgroup.com|CN=List- QE
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QE,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:qe@cobalt.com|CN=List- QE
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QE Bangalore,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-QEBangalore@cobalt.com|CN=List- QE Bangalore
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QE Bangalore,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-QEBangalore@exchange.Cobaltgroup.com|CN=List- QE Bangalore
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QE Bangalore,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-QEBangalore@main.cobaltgroup.com|CN=List- QE Bangalore
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QE Bangalore,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:List-QEBangalore@cobaltgroup.com|CN=List- QE Bangalore
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QE Managers,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QEManagers@exchange.Cobaltgroup.com|CN=List- QE Managers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QE Managers,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QEManagers@main.cobaltgroup.com|CN=List- QE Managers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QE Managers,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:QEManagers@cobalt.com|CN=List- QE Managers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QE Managers,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:QEManagers@cobaltgroup.com|CN=List- QE Managers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QE Seattle,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-QESeattle@cobalt.com|CN=List- QE Seattle
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QE Seattle,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-QESeattle@exchange.Cobaltgroup.com|CN=List- QE Seattle
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QE Seattle,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-QESeattle@main.cobaltgroup.com|CN=List- QE Seattle
+ldap://ldap.main.cobaltgroup.com:389/CN=List- QE Seattle,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:List-QESeattle@cobaltgroup.com|CN=List- QE Seattle
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Reach Data,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ReachData@exchange.Cobaltgroup.com|CN=List- Reach Data
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Reach Data,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ReachData@main.cobaltgroup.com|CN=List- Reach Data
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Reach Data,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ReachData@cobalt.com|CN=List- Reach Data
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Reach Data,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:ReachData@cobaltgroup.com|CN=List- Reach Data
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Receptionists,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:reception2@cobalt.com|CN=List- Receptionists
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Receptionists,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:reception2@main.cobaltgroup.com|CN=List- Receptionists
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Receptionists,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:reception@exchange.Cobaltgroup.com|CN=List- Receptionists
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Receptionists,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:reception@cobaltgroup.com|CN=List- Receptionists
+ldap://ldap.main.cobaltgroup.com:389/CN=List- ReleaseCouncil,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:releasecouncil@cobaltgroup.com|CN=List- ReleaseCouncil
+ldap://ldap.main.cobaltgroup.com:389/CN=List- ReleaseCouncil,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:releasecouncil@exchange.Cobaltgroup.com|CN=List- ReleaseCouncil
+ldap://ldap.main.cobaltgroup.com:389/CN=List- ReleaseCouncil,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:releasecouncil@cobalt.com|CN=List- ReleaseCouncil
+ldap://ldap.main.cobaltgroup.com:389/CN=List- ReleaseCouncil,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:releasecouncil@main.cobaltgroup.com|CN=List- ReleaseCouncil
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Repoll CDP,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:repollcdp@exchange.Cobaltgroup.com|CN=List- Repoll CDP
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Repoll CDP,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:repollcdp@cobaltgroup.com|CN=List- Repoll CDP
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Repoll CDP,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:repollcdp@cobalt.com|CN=List- Repoll CDP
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Repoll CDP,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:repollcdp@main.cobaltgroup.com|CN=List- Repoll CDP
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Reporting & Analytics Bot Watch,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:List-Reporting&AnalyticsBotWatch@cobaltgroup.com|CN=List- Reporting & Analytics Bot Watch
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Reporting & Analytics Bot Watch,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-Reporting&AnalyticsBotWatch@exchange.Cobaltgroup.com|CN=List- Reporting & Analytics Bot Watch
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Reporting & Analytics Bot Watch,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-Reporting&AnalyticsBotWatch@cobalt.com|CN=List- Reporting & Analytics Bot Watch
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Reporting & Analytics Bot Watch,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-Reporting&AnalyticsBotWatch@main.cobaltgroup.com|CN=List- Reporting & Analytics Bot Watch
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Reporting & Analytics Traffic Stats,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:Reporting&AnalyticsTrafficStats@cobalt.com|CN=List- Reporting & Analytics Traffic Stats
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Reporting & Analytics Traffic Stats,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:Reporting&AnalyticsTrafficStats@exchange.Cobaltgroup.com|CN=List- Reporting & Analytics Traffic Stats
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Reporting & Analytics Traffic Stats,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:Reporting&AnalyticsTrafficStats@main.cobaltgroup.com|CN=List- Reporting & Analytics Traffic Stats
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Reporting & Analytics Traffic Stats,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:Reporting&AnalyticsTrafficStats@cobaltgroup.com|CN=List- Reporting & Analytics Traffic Stats
+ldap://ldap.main.cobaltgroup.com:389/CN=List- RightFax Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:rightfax@cobaltgroup.com|CN=List- RightFax Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- RightFax Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:rightfax@exchange.Cobaltgroup.com|CN=List- RightFax Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- RightFax Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:rightfax@cobalt.com|CN=List- RightFax Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- RightFax Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:rightfax@main.cobaltgroup.com|CN=List- RightFax Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- RIM,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:rim@cobaltgroup.com|CN=List- RIM
+ldap://ldap.main.cobaltgroup.com:389/CN=List- RIM,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:rim@exchange.Cobaltgroup.com|CN=List- RIM
+ldap://ldap.main.cobaltgroup.com:389/CN=List- RIM,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:rim@cobalt.com|CN=List- RIM
+ldap://ldap.main.cobaltgroup.com:389/CN=List- RIM,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:rim@main.cobaltgroup.com|CN=List- RIM
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Rockstar,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:rockstar@cobalt.com|CN=List- Rockstar
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Rockstar,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:rockstar@exchange.Cobaltgroup.com|CN=List- Rockstar
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Rockstar,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:rockstar@main.cobaltgroup.com|CN=List- Rockstar
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Rockstar,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:rockstar@cobaltgroup.com|CN=List- Rockstar
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales All,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:allsales@cobaltgroup.com|CN=List- Sales All
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales All,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:allsales@exchange.Cobaltgroup.com|CN=List- Sales All
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales All,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:allsales@cobalt.com|CN=List- Sales All
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales All,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:allsales@main.cobaltgroup.com|CN=List- Sales All
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Central,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:centralsales@cobaltgroup.com|CN=List- Sales Central
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Central,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:centralsales@exchange.Cobaltgroup.com|CN=List- Sales Central
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Central,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:centralsales@cobalt.com|CN=List- Sales Central
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Central,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:centralsales@main.cobaltgroup.com|CN=List- Sales Central
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Chrysler,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:chrysler@cobalt.com|CN=List- Sales Chrysler
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Chrysler,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:chrysler3@main.cobaltgroup.com|CN=List- Sales Chrysler
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Chrysler,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:chrysler@exchange.Cobaltgroup.com|CN=List- Sales Chrysler
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Chrysler,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:chrysler@cobaltgroup.com|CN=List- Sales Chrysler
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales CRM,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SalesCRM@cobaltgroup.com|CN=List- Sales CRM
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales CRM,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesCRM@exchange.Cobaltgroup.com|CN=List- Sales CRM
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales CRM,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesCRM@cobalt.com|CN=List- Sales CRM
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales CRM,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesCRM@main.cobaltgroup.com|CN=List- Sales CRM
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales East,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SalesNE@cobaltgroup.com|CN=List- Sales East
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales East,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesNE@exchange.Cobaltgroup.com|CN=List- Sales East
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales East,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesNE@cobalt.com|CN=List- Sales East
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales East,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesNE@main.cobaltgroup.com|CN=List- Sales East
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Field,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:fieldsales@cobaltgroup.com|CN=List- Sales Field
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Field,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:fieldsales@exchange.Cobaltgroup.com|CN=List- Sales Field
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Field,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:fieldsales@cobalt.com|CN=List- Sales Field
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Field,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:fieldsales@main.cobaltgroup.com|CN=List- Sales Field
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Force Monitoring,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesForceMonitoring@exchange.Cobaltgroup.com|CN=List- Sales Force Monitoring
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Force Monitoring,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesForceMonitoring@main.cobaltgroup.com|CN=List- Sales Force Monitoring
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Force Monitoring,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesForceMonitoring@cobalt.com|CN=List- Sales Force Monitoring
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Force Monitoring,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SalesForceMonitoring@cobaltgroup.com|CN=List- Sales Force Monitoring
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales GMES,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SalesGMES@cobaltgroup.com|CN=List- Sales GMES
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales GMES,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesGMES@exchange.Cobaltgroup.com|CN=List- Sales GMES
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales GMES,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesGMES@cobalt.com|CN=List- Sales GMES
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales GMES,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesGMES@main.cobaltgroup.com|CN=List- Sales GMES
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Inside Sales,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:ISales@cobaltgroup.com|CN=List- Sales Inside Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Inside Sales,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ISales@exchange.Cobaltgroup.com|CN=List- Sales Inside Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Inside Sales,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ISales@cobalt.com|CN=List- Sales Inside Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Inside Sales,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ISales@main.cobaltgroup.com|CN=List- Sales Inside Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Inside Sales RAD,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:insalerad@cobalt.com|CN=List- Sales Inside Sales RAD
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Inside Sales RAD,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:insalerad@main.cobaltgroup.com|CN=List- Sales Inside Sales RAD
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Inside Sales RAD,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:insalerad@exchange.Cobaltgroup.com|CN=List- Sales Inside Sales RAD
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Inside Sales RAD,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:insalerad@cobaltgroup.com|CN=List- Sales Inside Sales RAD
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Internal Advisory Group,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:salesinternaladvisory@cobaltgroup.com|CN=List- Sales Internal Advisory Group
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Internal Advisory Group,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:salesinternaladvisory@exchange.Cobaltgroup.com|CN=List- Sales Internal Advisory Group
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Internal Advisory Group,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:salesinternaladvisory@cobalt.com|CN=List- Sales Internal Advisory Group
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Internal Advisory Group,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:salesinternaladvisory@main.cobaltgroup.com|CN=List- Sales Internal Advisory Group
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:salesleads3@cobaltgroup.com|CN=List- Sales Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:salesleads@exchange.Cobaltgroup.com|CN=List- Sales Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:salesleads3@cobalt.com|CN=List- Sales Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:salesleads3@main.cobaltgroup.com|CN=List- Sales Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales NADA Info,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:nadainfo@cobalt.com|CN=List- Sales NADA Info
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales NADA Info,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:nadainfo@main.cobaltgroup.com|CN=List- Sales NADA Info
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales NADA Info,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:nadainfo@exchange.Cobaltgroup.com|CN=List- Sales NADA Info
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales NADA Info,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:nadainfo@cobaltgroup.com|CN=List- Sales NADA Info
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales NE,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesNE2@exchange.Cobaltgroup.com|CN=List- Sales NE
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales NE,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesNE2@main.cobaltgroup.com|CN=List- Sales NE
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales NE,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesNE2@cobalt.com|CN=List- Sales NE
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales NE,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SalesNE2@cobaltgroup.com|CN=List- Sales NE
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:salesops@cobalt.com|CN=List- Sales Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:salesops@main.cobaltgroup.com|CN=List- Sales Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:salesops@exchange.cobaltgroup.com|CN=List- Sales Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:salesops@cobaltgroup.com|CN=List- Sales Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:e-orders@exchange.Cobaltgroup.com|CN=List- Sales Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:e-orders@cobaltgroup.com|CN=List- Sales Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Ops Notify,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:salesopsnotify@cobalt.com|CN=List- Sales Ops Notify
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Ops Notify,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:salesopsnotify@exchange.Cobaltgroup.com|CN=List- Sales Ops Notify
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Ops Notify,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:salesopsnotify@main.cobaltgroup.com|CN=List- Sales Ops Notify
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Ops Notify,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:salesopsnotify@cobaltgroup.com|CN=List- Sales Ops Notify
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales President's Club,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:presidentsclub@cobaltgroup.com|CN=List- Sales President's Club
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales President's Club,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:presidentsclub@exchange.Cobaltgroup.com|CN=List- Sales President's Club
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales President's Club,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:presidentsclub@cobalt.com|CN=List- Sales President's Club
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales President's Club,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:presidentsclub@main.cobaltgroup.com|CN=List- Sales President's Club
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales SE,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesSE@exchange.Cobaltgroup.com|CN=List- Sales SE
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales SE,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesSE@main.cobaltgroup.com|CN=List- Sales SE
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales SE,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesSE@cobalt.com|CN=List- Sales SE
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales SE,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SalesSE@cobaltgroup.com|CN=List- Sales SE
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Service Communication,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesServiceCommunication@exchange.Cobaltgroup.com|CN=List- Sales Service Communication
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Service Communication,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesServiceCommunication@main.cobaltgroup.com|CN=List- Sales Service Communication
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Service Communication,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesServiceCommunication@cobalt.com|CN=List- Sales Service Communication
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Service Communication,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SalesServiceCommunication@cobaltgroup.com|CN=List- Sales Service Communication
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Toolbox PW,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:toolboxpassword@cobaltgroup.com|CN=List- Sales Toolbox PW
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Toolbox PW,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:toolboxpassword@exchange.Cobaltgroup.com|CN=List- Sales Toolbox PW
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Toolbox PW,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:toolboxpassword@cobalt.com|CN=List- Sales Toolbox PW
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales Toolbox PW,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:toolboxpassword@main.cobaltgroup.com|CN=List- Sales Toolbox PW
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Canada,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwcanada3@cobalt.com|CN=List- Sales VW Canada
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Canada,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwcanada2@main.cobaltgroup.com|CN=List- Sales VW Canada
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Canada,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwcanada@exchange.Cobaltgroup.com|CN=List- Sales VW Canada
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Canada,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:vwcanada@cobaltgroup.com|CN=List- Sales VW Canada
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Differences,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwdifferences@cobalt.com|CN=List- Sales VW Differences
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Differences,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwdifferences@main.cobaltgroup.com|CN=List- Sales VW Differences
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Differences,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwdifferences@exchange.Cobaltgroup.com|CN=List- Sales VW Differences
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Differences,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:vwdifferences@cobaltgroup.com|CN=List- Sales VW Differences
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Group,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwgroup@cobalt.com|CN=List- Sales VW Group
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Group,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwgroup@main.cobaltgroup.com|CN=List- Sales VW Group
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Group,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwgroup@exchange.Cobaltgroup.com|CN=List- Sales VW Group
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Group,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:vwgroup@cobaltgroup.com|CN=List- Sales VW Group
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Leadmanager,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwleadmanager@cobalt.com|CN=List- Sales VW Leadmanager
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Leadmanager,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwleadmanager@main.cobaltgroup.com|CN=List- Sales VW Leadmanager
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Leadmanager,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwleadmanager@exchange.Cobaltgroup.com|CN=List- Sales VW Leadmanager
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Leadmanager,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:vwleadmanager@cobaltgroup.com|CN=List- Sales VW Leadmanager
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Link Request,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:vwlinkrequest@cobaltgroup.com|CN=List- Sales VW Link Request
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Link Request,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwlinkrequest@exchange.Cobaltgroup.com|CN=List- Sales VW Link Request
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Link Request,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwlinkrequest@cobalt.com|CN=List- Sales VW Link Request
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Link Request,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwlinkrequest@main.cobaltgroup.com|CN=List- Sales VW Link Request
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Setup,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwsetup@cobalt.com|CN=List- Sales VW Setup
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Setup,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwsetup@main.cobaltgroup.com|CN=List- Sales VW Setup
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Setup,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vwsetup@exchange.Cobaltgroup.com|CN=List- Sales VW Setup
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales VW Setup,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:vwsetup@cobaltgroup.com|CN=List- Sales VW Setup
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales West,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SalesWest@cobaltgroup.com|CN=List- Sales West
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales West,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesWest@exchange.Cobaltgroup.com|CN=List- Sales West
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales West,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesWest@cobalt.com|CN=List- Sales West
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sales West,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesWest@main.cobaltgroup.com|CN=List- Sales West
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Salesforce User Admin,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesforceUserAdmin@exchange.Cobaltgroup.com|CN=List- Salesforce User Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Salesforce User Admin,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesforceUserAdmin@main.cobaltgroup.com|CN=List- Salesforce User Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Salesforce User Admin,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SalesforceUserAdmin@cobalt.com|CN=List- Salesforce User Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Salesforce User Admin,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SalesforceUserAdmin@cobaltgroup.com|CN=List- Salesforce User Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn All,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SaturnAll@cobaltgroup.com|CN=List- Saturn All
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn All,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SaturnAll@exchange.Cobaltgroup.com|CN=List- Saturn All
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn All,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SaturnAll@main.cobaltgroup.com|CN=List- Saturn All
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn All,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SaturnAll@cobalt.com|CN=List- Saturn All
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn All,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SaturnAll@Austin.CobaltGroup.com|CN=List- Saturn All
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Core Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SaturnCore@cobaltgroup.com|CN=List- Saturn Core Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Core Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SaturnCore@exchange.Cobaltgroup.com|CN=List- Saturn Core Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Core Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SaturnCore@main.cobaltgroup.com|CN=List- Saturn Core Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Core Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SaturnCore@cobalt.com|CN=List- Saturn Core Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Core Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SaturnCore@Austin.CobaltGroup.com|CN=List- Saturn Core Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Enrollments,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:saturnenrollments@cobalt.com|CN=List- Saturn Enrollments
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Enrollments,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:saturnenrollments@exchange.cobaltgroup.com|CN=List- Saturn Enrollments
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Enrollments,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:saturnenrollments@main.cobaltgroup.com|CN=List- Saturn Enrollments
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Enrollments,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:saturnenrollments@cobaltgroup.com|CN=List- Saturn Enrollments
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Integration Outages,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:saturnintegrationoutages@cobaltgroup.com|CN=List- Saturn Integration Outages
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Integration Outages,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:saturnintegrationoutages@exchange.Cobaltgroup.com|CN=List- Saturn Integration Outages
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Integration Outages,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:saturnintegrationoutages@cobalt.com|CN=List- Saturn Integration Outages
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Integration Outages,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:saturnintegrationoutages@main.cobaltgroup.com|CN=List- Saturn Integration Outages
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Pilot Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:saturnpilotteam@cobaltgroup.com|CN=List- Saturn Pilot Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Pilot Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:saturnpilotteam@exchange.Cobaltgroup.com|CN=List- Saturn Pilot Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Pilot Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:saturnpilotteam@cobalt.com|CN=List- Saturn Pilot Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Pilot Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:saturnpilotteam@main.cobaltgroup.com|CN=List- Saturn Pilot Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Project,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SaturnProject@cobaltgroup.com|CN=List- Saturn Project
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Project,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SaturnProject@exchange.Cobaltgroup.com|CN=List- Saturn Project
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Project,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SaturnProject@main.cobaltgroup.com|CN=List- Saturn Project
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Project,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SaturnProject@cobalt.com|CN=List- Saturn Project
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saturn Project,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SaturnProject@Austin.CobaltGroup.com|CN=List- Saturn Project
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saves,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:save@cobalt.com|CN=List- Saves
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saves,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:save@main.cobaltgroup.com|CN=List- Saves
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saves,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:save@exchange.Cobaltgroup.com|CN=List- Saves
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Saves,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:save@cobaltgroup.com|CN=List- Saves
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEA ResAdmins,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SEAResAdmins@cobaltgroup.com|CN=List- SEA ResAdmins
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEA ResAdmins,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEAResAdmins@exchange.Cobaltgroup.com|CN=List- SEA ResAdmins
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEA ResAdmins,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEAResAdmins@cobalt.com|CN=List- SEA ResAdmins
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEA ResAdmins,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEAResAdmins@main.cobaltgroup.com|CN=List- SEA ResAdmins
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Search Cancellations,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SearchCancellations@cobalt.com|CN=List- Search Cancellations
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Search Cancellations,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SearchCancellations@exchange.Cobaltgroup.com|CN=List- Search Cancellations
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Search Cancellations,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SearchCancellations@main.cobaltgroup.com|CN=List- Search Cancellations
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Search Cancellations,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SearchCancellations@cobaltgroup.com|CN=List- Search Cancellations
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Search Essentials Mgmt,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:searchessentialsmgmt@no-filter.exchange.cobaltgroup.com|CN=List- Search Essentials Mgmt
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Search Essentials Mgmt,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SearchEssentialsMgmt@exchange.Cobaltgroup.com|CN=List- Search Essentials Mgmt
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Search Essentials Mgmt,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SearchEssentialsMgmt@main.cobaltgroup.com|CN=List- Search Essentials Mgmt
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Search Essentials Mgmt,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SearchEssentialsMgmt@cobalt.com|CN=List- Search Essentials Mgmt
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Search Essentials Mgmt,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SearchEssentialsMgmt@cobaltgroup.com|CN=List- Search Essentials Mgmt
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Search Mgmt,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:searchmgmt@cobaltgroup.com|CN=List- Search Mgmt
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Search Mgmt,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:searchmgmt@exchange.Cobaltgroup.com|CN=List- Search Mgmt
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Search Mgmt,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:searchmgmt@main.cobaltgroup.com|CN=List- Search Mgmt
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Search Mgmt,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:searchmgmt@cobalt.com|CN=List- Search Mgmt
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Search Swat Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:searchswatteam@cobaltgroup.com|CN=List- Search Swat Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Search Swat Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:searchswatteam@exchange.Cobaltgroup.com|CN=List- Search Swat Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Search Swat Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:searchswatteam@main.cobaltgroup.com|CN=List- Search Swat Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Search Swat Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:searchswatteam@cobalt.com|CN=List- Search Swat Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:seattle@cobalt.com|CN=List- Seattle
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:seattle@main.cobaltgroup.com|CN=List- Seattle
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:seattle@exchange.Cobaltgroup.com|CN=List- Seattle
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:seattle@cobaltgroup.com|CN=List- Seattle
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Contract,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:Seattle_Contract@cobalt.com|CN=List- Seattle Contract
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Contract,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:Seattle_Contract@main.cobaltgroup.com|CN=List- Seattle Contract
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Contract,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:Seattle_Contract@exchange.Cobaltgroup.com|CN=List- Seattle Contract
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Contract,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:seattle_contract@cobaltgroup.com|CN=List- Seattle Contract
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Employees,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:seattle_employees@cobalt.com|CN=List- Seattle Employees
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Employees,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:seattle_employees@main.cobaltgroup.com|CN=List- Seattle Employees
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Employees,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:seattle_employees@exchange.Cobaltgroup.com|CN=List- Seattle Employees
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Employees,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:seattle_employees@cobaltgroup.com|CN=List- Seattle Employees
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Integrators,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SeattleIntegrators@exchange.Cobaltgroup.com|CN=List- Seattle Integrators
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Integrators,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SeattleIntegrators@main.cobaltgroup.com|CN=List- Seattle Integrators
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Integrators,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SeattleIntegrators@cobalt.com|CN=List- Seattle Integrators
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Integrators,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SeattleIntegrators@cobaltgroup.com|CN=List- Seattle Integrators
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Managers,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:seattlemanagers@cobaltgroup.com|CN=List- Seattle Managers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Managers,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:seattlemanagers@exchange.Cobaltgroup.com|CN=List- Seattle Managers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Managers,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:seattlemanagers@cobalt.com|CN=List- Seattle Managers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Managers,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:seattlemanagers@main.cobaltgroup.com|CN=List- Seattle Managers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Max,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SeattleMax@cobaltgroup.com|CN=List- Seattle Max
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Max,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SeattleMax@exchange.Cobaltgroup.com|CN=List- Seattle Max
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Max,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SeattleMax@main.cobaltgroup.com|CN=List- Seattle Max
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Max,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SeattleMax@cobalt.com|CN=List- Seattle Max
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Max,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SeattleMax@Austin.CobaltGroup.com|CN=List- Seattle Max
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Max Term Employees,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:seattlefixed@cobaltgroup.com|CN=List- Seattle Max Term Employees
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Max Term Employees,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:seattlefixed@exchange.Cobaltgroup.com|CN=List- Seattle Max Term Employees
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Max Term Employees,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:seattlefixed@cobalt.com|CN=List- Seattle Max Term Employees
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Seattle Max Term Employees,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:seattlefixed@main.cobaltgroup.com|CN=List- Seattle Max Term Employees
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM ABU,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SEMABU@cobaltgroup.com|CN=List- SEM ABU
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM ABU,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMABU@exchange.Cobaltgroup.com|CN=List- SEM ABU
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM ABU,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMABU@main.cobaltgroup.com|CN=List- SEM ABU
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM ABU,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMABU@cobalt.com|CN=List- SEM ABU
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Billing,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:sembilling@main.cobaltgroup.com|CN=List- SEM Billing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Billing,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:sembilling@cobalt.com|CN=List- SEM Billing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Billing,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:sembilling@exchange.cobaltgroup.com|CN=List- SEM Billing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Billing,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:sembilling@cobaltgroup.com|CN=List- SEM Billing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Dev,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SEMDev@cobaltgroup.com|CN=List- SEM Dev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Dev,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMDev@exchange.Cobaltgroup.com|CN=List- SEM Dev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Dev,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMDev@cobalt.com|CN=List- SEM Dev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Dev,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMDev@main.cobaltgroup.com|CN=List- SEM Dev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Engineering,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:List-SEMEngineering@cobaltgroup.com|CN=List- SEM Engineering
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Engineering,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-SEMEngineering@exchange.Cobaltgroup.com|CN=List- SEM Engineering
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Engineering,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-SEMEngineering@cobalt.com|CN=List- SEM Engineering
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Engineering,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-SEMEngineering@main.cobaltgroup.com|CN=List- SEM Engineering
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Leadership,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMLeadership@exchange.Cobaltgroup.com|CN=List- SEM Leadership
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Leadership,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMLeadership@main.cobaltgroup.com|CN=List- SEM Leadership
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Leadership,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMLeadership@cobalt.com|CN=List- SEM Leadership
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Leadership,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SEMLeadership@cobaltgroup.com|CN=List- SEM Leadership
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SEMLeads@cobaltgroup.com|CN=List- SEM Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMLeads@exchange.Cobaltgroup.com|CN=List- SEM Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMLeads@cobalt.com|CN=List- SEM Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMLeads@main.cobaltgroup.com|CN=List- SEM Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:semops@cobaltgroup.com|CN=List- SEM Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:semops@exchange.Cobaltgroup.com|CN=List- SEM Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:semops@main.cobaltgroup.com|CN=List- SEM Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:semops@cobalt.com|CN=List- SEM Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Project,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:semproject@cobalt.com|CN=List- SEM Project
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Project,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:semproject@main.cobaltgroup.com|CN=List- SEM Project
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Project,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:semproject@exchange.cobaltgroup.com|CN=List- SEM Project
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Project,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:semproject@cobaltgroup.com|CN=List- SEM Project
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM QA,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SEMQA@cobaltgroup.com|CN=List- SEM QA
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM QA,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMQA@exchange.Cobaltgroup.com|CN=List- SEM QA
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM QA,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMQA@cobalt.com|CN=List- SEM QA
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM QA,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMQA@main.cobaltgroup.com|CN=List- SEM QA
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Release,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SEMRelease@cobaltgroup.com|CN=List- SEM Release
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Release,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMRelease@exchange.Cobaltgroup.com|CN=List- SEM Release
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Release,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMRelease@cobalt.com|CN=List- SEM Release
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Release,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMRelease@main.cobaltgroup.com|CN=List- SEM Release
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Scrum,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMScrum@exchange.Cobaltgroup.com|CN=List- SEM Scrum
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Scrum,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMScrum@main.cobaltgroup.com|CN=List- SEM Scrum
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Scrum,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMScrum@cobalt.com|CN=List- SEM Scrum
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Scrum,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SEMScrum@cobaltgroup.com|CN=List- SEM Scrum
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Support,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SEMSupport@cobaltgroup.com|CN=List- SEM Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Support,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMSupport@exchange.Cobaltgroup.com|CN=List- SEM Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Support,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMSupport@cobalt.com|CN=List- SEM Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Support,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMSupport@main.cobaltgroup.com|CN=List- SEM Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SEMTeam@cobaltgroup.com|CN=List- SEM Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMTeam@exchange.Cobaltgroup.com|CN=List- SEM Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMTeam@cobalt.com|CN=List- SEM Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMTeam@main.cobaltgroup.com|CN=List- SEM Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Yahoo Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMYahooOps@cobalt.com|CN=List- SEM Yahoo Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Yahoo Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMYahooOps@exchange.Cobaltgroup.com|CN=List- SEM Yahoo Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Yahoo Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEMYahooOps@main.cobaltgroup.com|CN=List- SEM Yahoo Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEM Yahoo Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SEMYahooOps@cobaltgroup.com|CN=List- SEM Yahoo Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEO Advice & Review,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEOAdvice&Review@exchange.Cobaltgroup.com|CN=List- SEO Advice & Review
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEO Advice & Review,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEOAdvice&Review@main.cobaltgroup.com|CN=List- SEO Advice & Review
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEO Advice & Review,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEOAdvice&Review@cobalt.com|CN=List- SEO Advice & Review
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEO Advice & Review,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SEOAdvice&Review@cobaltgroup.com|CN=List- SEO Advice & Review
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEO Competitive Analysis Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEOCompetitiveAnalysisTeam@exchange.Cobaltgroup.com|CN=List- SEO Competitive Analysis Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEO Competitive Analysis Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEOCompetitiveAnalysisTeam@main.cobaltgroup.com|CN=List- SEO Competitive Analysis Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEO Competitive Analysis Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SEOCompetitiveAnalysisTeam@cobalt.com|CN=List- SEO Competitive Analysis Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SEO Competitive Analysis Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SEOCompetitiveAnalysisTeam@cobaltgroup.com|CN=List- SEO Competitive Analysis Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services - Remote Employees,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:Services-RemoteEmployees@exchange.Cobaltgroup.com|CN=List- Services - Remote Employees
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services - Remote Employees,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:Services-RemoteEmployees@main.cobaltgroup.com|CN=List- Services - Remote Employees
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services - Remote Employees,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:Services-RemoteEmployees@cobalt.com|CN=List- Services - Remote Employees
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services - Remote Employees,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:Services-RemoteEmployees@cobaltgroup.com|CN=List- Services - Remote Employees
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Department,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:ecaredept@cobaltgroup.com|CN=List- Services Department
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Department,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ecaredept@exchange.Cobaltgroup.com|CN=List- Services Department
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Department,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ecaredept@cobalt.com|CN=List- Services Department
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Department,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ecaredept@main.cobaltgroup.com|CN=List- Services Department
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services EMS Design Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ServicesEMSDesignTeam@exchange.Cobaltgroup.com|CN=List- Services EMS Design Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services EMS Design Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ServicesEMSDesignTeam@main.cobaltgroup.com|CN=List- Services EMS Design Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services EMS Design Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ServicesEMSDesignTeam@cobalt.com|CN=List- Services EMS Design Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services EMS Design Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:ServicesEMSDesignTeam@cobaltgroup.com|CN=List- Services EMS Design Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Integration Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ServicesIntegrationTeam@exchange.Cobaltgroup.com|CN=List- Services Integration Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Integration Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ServicesIntegrationTeam@main.cobaltgroup.com|CN=List- Services Integration Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Integration Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ServicesIntegrationTeam@cobalt.com|CN=List- Services Integration Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Integration Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:ServicesIntegrationTeam@cobaltgroup.com|CN=List- Services Integration Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Leadership Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:CustomerServicesLeadershipTeam@cobalt.com|CN=List- Services Leadership Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Leadership Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:CustomerServicesLeadershipTeam@exchange.Cobaltgroup.com|CN=List- Services Leadership Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Leadership Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:CustomerServicesLeadershipTeam@main.cobaltgroup.com|CN=List- Services Leadership Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Leadership Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:CustomerServicesLeadershipTeam@cobaltgroup.com|CN=List- Services Leadership Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Lynnwood,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:CustomerServicesLynnwood@cobalt.com|CN=List- Services Lynnwood
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Lynnwood,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:CustomerServicesLynnwood@exchange.Cobaltgroup.com|CN=List- Services Lynnwood
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Lynnwood,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:CustomerServicesLynnwood@main.cobaltgroup.com|CN=List- Services Lynnwood
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Lynnwood,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:CustomerServicesLynnwood@cobaltgroup.com|CN=List- Services Lynnwood
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Management Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:Ecaremanage@cobaltgroup.com|CN=List- Services Management Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Management Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:Ecaremanage@exchange.Cobaltgroup.com|CN=List- Services Management Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Management Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:Ecaremanage@cobalt.com|CN=List- Services Management Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Management Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:Ecaremanage@main.cobaltgroup.com|CN=List- Services Management Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Move Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ServicesMoveTeam@exchange.Cobaltgroup.com|CN=List- Services Move Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Move Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ServicesMoveTeam@main.cobaltgroup.com|CN=List- Services Move Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Move Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ServicesMoveTeam@cobalt.com|CN=List- Services Move Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Move Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:ServicesMoveTeam@cobaltgroup.com|CN=List- Services Move Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Sales Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ServicesSalesLeads@exchange.Cobaltgroup.com|CN=List- Services Sales Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Sales Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ServicesSalesLeads@main.cobaltgroup.com|CN=List- Services Sales Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Sales Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ServicesSalesLeads@cobalt.com|CN=List- Services Sales Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Sales Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:ServicesSalesLeads@cobaltgroup.com|CN=List- Services Sales Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Seattle,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:CustomerServicesSeattle@cobalt.com|CN=List- Services Seattle
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Seattle,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:CustomerServicesSeattle@exchange.Cobaltgroup.com|CN=List- Services Seattle
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Seattle,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:CustomerServicesSeattle@main.cobaltgroup.com|CN=List- Services Seattle
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Services Seattle,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:CustomerServicesSeattle@cobaltgroup.com|CN=List- Services Seattle
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Shared Svcs Dev,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:sharedsvcsdev@exchange.Cobaltgroup.com|CN=List- Shared Svcs Dev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Shared Svcs Dev,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:sharedsvcsdev@cobaltgroup.com|CN=List- Shared Svcs Dev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sharepoint Audience,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SharepointAudience@cobalt.com|CN=List- Sharepoint Audience
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sharepoint Audience,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SharepointAudience@exchange.Cobaltgroup.com|CN=List- Sharepoint Audience
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sharepoint Audience,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SharepointAudience@main.cobaltgroup.com|CN=List- Sharepoint Audience
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Sharepoint Audience,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SharepointAudience@cobaltgroup.com|CN=List- Sharepoint Audience
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Admin,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:slxadmin@cobaltgroup.com|CN=List- SLX Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Admin,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxadmin@exchange.Cobaltgroup.com|CN=List- SLX Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Admin,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxadmin3@cobalt.com|CN=List- SLX Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Admin,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxalerts@exchange.Cobaltgroup.com|CN=List- SLX Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Admin,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxadmin2@main.cobaltgroup.com|CN=List- SLX Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Admin,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxadmin3@cobaltgroup.com|CN=List- SLX Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Concurrent Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxconcurrent@exchange.Cobaltgroup.com|CN=List- SLX Concurrent Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Concurrent Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:slxconcurrent@cobaltgroup.com|CN=List- SLX Concurrent Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Concurrent Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxsupport@exchange.Cobaltgroup.com|CN=List- SLX Concurrent Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Concurrent Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxconcurrent@cobalt.com|CN=List- SLX Concurrent Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Concurrent Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxconcurrent@main.cobaltgroup.com|CN=List- SLX Concurrent Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Remote Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:slxremoteusers@cobaltgroup.com|CN=List- SLX Remote Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Remote Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxremoteusers@exchange.Cobaltgroup.com|CN=List- SLX Remote Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Remote Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxremotes@cobaltgroup.com|CN=List- SLX Remote Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Remote Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxremoteusers@cobalt.com|CN=List- SLX Remote Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Remote Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxremoteusers@main.cobaltgroup.com|CN=List- SLX Remote Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Remote Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxremotes@exchange.Cobaltgroup.com|CN=List- SLX Remote Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Web Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxwebusers@exchange.Cobaltgroup.com|CN=List- SLX Web Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Web Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:slxwebusers@cobaltgroup.com|CN=List- SLX Web Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Web Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxweb@exchange.Cobaltgroup.com|CN=List- SLX Web Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Web Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxwebusers@cobalt.com|CN=List- SLX Web Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX Web Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxwebusers@main.cobaltgroup.com|CN=List- SLX Web Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX WorkG Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:slxworkgusers@cobaltgroup.com|CN=List- SLX WorkG Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX WorkG Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxworkgusers@exchange.Cobaltgroup.com|CN=List- SLX WorkG Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX WorkG Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxworkg@cobaltgroup.com|CN=List- SLX WorkG Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX WorkG Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxworkgusers@cobalt.com|CN=List- SLX WorkG Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX WorkG Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxworkgusers@main.cobaltgroup.com|CN=List- SLX WorkG Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SLX WorkG Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:slxworkg@exchange.Cobaltgroup.com|CN=List- SLX WorkG Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Social Media Ambassadors,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SocialMediaAmbassadors@exchange.Cobaltgroup.com|CN=List- Social Media Ambassadors
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Social Media Ambassadors,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SocialMediaAmbassadors@main.cobaltgroup.com|CN=List- Social Media Ambassadors
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Social Media Ambassadors,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SocialMediaAmbassadors@cobalt.com|CN=List- Social Media Ambassadors
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Social Media Ambassadors,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SocialMediaAmbassadors@cobaltgroup.com|CN=List- Social Media Ambassadors
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Stock Photographers,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:StockPhotographers@exchange.Cobaltgroup.com|CN=List- Stock Photographers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Stock Photographers,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:StockPhotographers@main.cobaltgroup.com|CN=List- Stock Photographers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Stock Photographers,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:StockPhotographers@cobalt.com|CN=List- Stock Photographers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Stock Photographers,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:StockPhotographers@cobaltgroup.com|CN=List- Stock Photographers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- StratDev,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:stratdev@cobalt.com|CN=List- StratDev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- StratDev,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:stratdev@main.cobaltgroup.com|CN=List- StratDev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- StratDev,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:stratdev@exchange.Cobaltgroup.com|CN=List- StratDev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- StratDev,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:stratdev@cobaltgroup.com|CN=List- StratDev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Strategic Marketing,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:StrategicMarketing@exchange.Cobaltgroup.com|CN=List- Strategic Marketing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Strategic Marketing,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:StrategicMarketing@main.cobaltgroup.com|CN=List- Strategic Marketing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Strategic Marketing,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:StrategicMarketing@cobalt.com|CN=List- Strategic Marketing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Strategic Marketing,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:StrategicMarketing@cobaltgroup.com|CN=List- Strategic Marketing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Subaru Alerts,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:subarualerts@cobalt.com|CN=List- Subaru Alerts
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Subaru Alerts,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:subarualerts@main.cobaltgroup.com|CN=List- Subaru Alerts
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Subaru Alerts,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:subarualerts@exchange.cobaltgroup.com|CN=List- Subaru Alerts
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Subaru Alerts,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:subarualerts@cobaltgroup.com|CN=List- Subaru Alerts
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Subaru HTTP Leads Spool,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SubHTTPLeadSpool@cobaltgroup.com|CN=List- Subaru HTTP Leads Spool
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Subaru HTTP Leads Spool,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SubHTTPLeadSpool@exchange.Cobaltgroup.com|CN=List- Subaru HTTP Leads Spool
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Subaru HTTP Leads Spool,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SubHTTPLeadSpool@main.cobaltgroup.com|CN=List- Subaru HTTP Leads Spool
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Subaru HTTP Leads Spool,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SubHTTPLeadSpool@cobalt.com|CN=List- Subaru HTTP Leads Spool
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Subaru Notify,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:subarunotify@cobalt.com|CN=List- Subaru Notify
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Subaru Notify,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:subarunotify@main.cobaltgroup.com|CN=List- Subaru Notify
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Subaru Notify,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:subarunotify@exchange.cobaltgroup.com|CN=List- Subaru Notify
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Subaru Notify,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:subarunotify@cobaltgroup.com|CN=List- Subaru Notify
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Supervisory Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SupervisoryLeads@exchange.Cobaltgroup.com|CN=List- Supervisory Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Supervisory Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SupervisoryLeads@main.cobaltgroup.com|CN=List- Supervisory Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Supervisory Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:SupervisoryLeads@cobalt.com|CN=List- Supervisory Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Supervisory Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:SupervisoryLeads@cobaltgroup.com|CN=List- Supervisory Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SUS Pilot Program,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:suspilot@cobaltgroup.com|CN=List- SUS Pilot Program
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SUS Pilot Program,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:suspilot@exchange.Cobaltgroup.com|CN=List- SUS Pilot Program
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SUS Pilot Program,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:suspilot@cobalt.com|CN=List- SUS Pilot Program
+ldap://ldap.main.cobaltgroup.com:389/CN=List- SUS Pilot Program,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:suspilot@main.cobaltgroup.com|CN=List- SUS Pilot Program
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Systems Outages,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:outages@cobalt.com|CN=List- Systems Outages
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Systems Outages,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:outages@main.cobaltgroup.com|CN=List- Systems Outages
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Systems Outages,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:outages@exchange.Cobaltgroup.com|CN=List- Systems Outages
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Systems Outages,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:outages@cobaltgroup.com|CN=List- Systems Outages
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Systems Update,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:systems-update@cobalt.com|CN=List- Systems Update
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Systems Update,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:systems-update@main.cobaltgroup.com|CN=List- Systems Update
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Systems Update,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:systems-update@exchange.Cobaltgroup.com|CN=List- Systems Update
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Systems Update,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:systems-update@cobaltgroup.com|CN=List- Systems Update
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Tableau Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TableauUsers@exchange.Cobaltgroup.com|CN=List- Tableau Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Tableau Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TableauUsers@main.cobaltgroup.com|CN=List- Tableau Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Tableau Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TableauUsers@cobalt.com|CN=List- Tableau Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Tableau Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:TableauUsers@cobaltgroup.com|CN=List- Tableau Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TCC Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:tccusers@exchange.Cobaltgroup.com|CN=List- TCC Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:te@cobalt.com|CN=List- TE
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:te@exchange.Cobaltgroup.com|CN=List- TE
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:te@main.cobaltgroup.com|CN=List- TE
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:te@cobaltgroup.com|CN=List- TE
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Automation,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:teautomation@cobalt.com|CN=List- TE Automation
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Automation,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:teautomation@exchange.Cobaltgroup.com|CN=List- TE Automation
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Automation,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:teautomation@main.cobaltgroup.com|CN=List- TE Automation
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Automation,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:teautomation@cobaltgroup.com|CN=List- TE Automation
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE ISO,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TEISO@exchange.Cobaltgroup.com|CN=List- TE ISO
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE ISO,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TEISO@main.cobaltgroup.com|CN=List- TE ISO
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE ISO,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TEISO@cobalt.com|CN=List- TE ISO
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE ISO,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:TEISO@cobaltgroup.com|CN=List- TE ISO
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:teleads@cobalt.com|CN=List- TE Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:teleads@exchange.Cobaltgroup.com|CN=List- TE Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:teleads@main.cobaltgroup.com|CN=List- TE Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:teleads@cobaltgroup.com|CN=List- TE Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Nitra,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TENitra@exchange.Cobaltgroup.com|CN=List- TE Nitra
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Nitra,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TENitra@main.cobaltgroup.com|CN=List- TE Nitra
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Nitra,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TENitra@cobalt.com|CN=List- TE Nitra
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Nitra,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:TENitra@cobaltgroup.com|CN=List- TE Nitra
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Performance,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:teperformance@cobalt.com|CN=List- TE Performance
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Performance,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:teperformance@exchange.Cobaltgroup.com|CN=List- TE Performance
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Performance,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:teperformance@main.cobaltgroup.com|CN=List- TE Performance
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Performance,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:teperformance@cobaltgroup.com|CN=List- TE Performance
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Tools,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TETools@exchange.Cobaltgroup.com|CN=List- TE Tools
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Tools,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TETools@main.cobaltgroup.com|CN=List- TE Tools
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Tools,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TETools@cobalt.com|CN=List- TE Tools
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Tools,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:TETools@cobaltgroup.com|CN=List- TE Tools
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Webtest,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TEWebtest@exchange.Cobaltgroup.com|CN=List- TE Webtest
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Webtest,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TEWebtest@main.cobaltgroup.com|CN=List- TE Webtest
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Webtest,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TEWebtest@cobalt.com|CN=List- TE Webtest
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TE Webtest,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:TEWebtest@cobaltgroup.com|CN=List- TE Webtest
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TechBoard,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:techboard@exchange.Cobaltgroup.com|CN=List- TechBoard
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TechBoard,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:techboard@cobaltgroup.com|CN=List- TechBoard
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Technology Directors,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:techdir@cobaltgroup.com|CN=List- Technology Directors
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Technology Directors,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:techdir@exchange.Cobaltgroup.com|CN=List- Technology Directors
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Technology Directors,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:techdir@cobalt.com|CN=List- Technology Directors
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Technology Directors,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:techdir@main.cobaltgroup.com|CN=List- Technology Directors
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Timehelp,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:timehelp@cobalt.com|CN=List- Timehelp
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Timehelp,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:timehelp@main.cobaltgroup.com|CN=List- Timehelp
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Timehelp,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:timehelp@cobaltgroup.com|CN=List- Timehelp
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Timehelp,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:timehelp@exchange.Cobaltgroup.com|CN=List- Timehelp
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TMR Release Readiness,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TMRReleaseReadiness@exchange.Cobaltgroup.com|CN=List- TMR Release Readiness
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TMR Release Readiness,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TMRReleaseReadiness@main.cobaltgroup.com|CN=List- TMR Release Readiness
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TMR Release Readiness,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:TMRReleaseReadiness@cobalt.com|CN=List- TMR Release Readiness
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TMR Release Readiness,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:TMRReleaseReadiness@cobaltgroup.com|CN=List- TMR Release Readiness
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TogetherSoft  Control Center Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:together@cobaltgroup.com|CN=List- TogetherSoft  Control Center Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TogetherSoft  Control Center Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:together@exchange.Cobaltgroup.com|CN=List- TogetherSoft  Control Center Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TogetherSoft  Control Center Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:together@cobalt.com|CN=List- TogetherSoft  Control Center Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- TogetherSoft  Control Center Users,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:together@main.cobaltgroup.com|CN=List- TogetherSoft  Control Center Users
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Travelers,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:travelers@cobalt.com|CN=List- Travelers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Travelers,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:travelers@exchange.Cobaltgroup.com|CN=List- Travelers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Travelers,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:travelers@main.cobaltgroup.com|CN=List- Travelers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Travelers,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:travelers@cobaltgroup.com|CN=List- Travelers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Unix,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:unix@cobalt.com|CN=List- Unix
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Unix,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:unix@main.cobaltgroup.com|CN=List- Unix
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Unix,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:unix@ex-sea-bh2.cobaltgroup.com|CN=List- Unix
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Unix,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:unixbitches@exchange.cobaltgroup.com|CN=List- Unix
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Unix,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:unixbitches@cobaltgroup.com|CN=List- Unix
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Unix,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:unix@exchange.cobaltgroup.com|CN=List- Unix
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Unix,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:unix@cobaltgroup.com|CN=List- Unix
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VAHA Info,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vahainfo@cobalt.com|CN=List- VAHA Info
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VAHA Info,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vahainfo@main.cobaltgroup.com|CN=List- VAHA Info
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VAHA Info,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vahainfo@exchange.Cobaltgroup.com|CN=List- VAHA Info
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VAHA Info,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:vahainfo@cobaltgroup.com|CN=List- VAHA Info
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VAHA Team Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vahaleads@cobalt.com|CN=List- VAHA Team Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VAHA Team Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vahaleads@main.cobaltgroup.com|CN=List- VAHA Team Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VAHA Team Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vahaleads@exchange.Cobaltgroup.com|CN=List- VAHA Team Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VAHA Team Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:vahaleads@cobaltgroup.com|CN=List- VAHA Team Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Vertex,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vertex2@cobalt.com|CN=List- Vertex
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Vertex,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vertex2@exchange.Cobaltgroup.com|CN=List- Vertex
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Vertex,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:vertex2@main.cobaltgroup.com|CN=List- Vertex
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Vertex,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:vertex2@cobaltgroup.com|CN=List- Vertex
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VP,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:List-VP@cobaltgroup.com|CN=List- VP
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VP,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-VP@exchange.Cobaltgroup.com|CN=List- VP
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VP,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-VP@cobalt.com|CN=List- VP
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VP,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-VP@main.cobaltgroup.com|CN=List- VP
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VW DAP Creative Change,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:VWDAPCreativeChange@exchange.Cobaltgroup.com|CN=List- VW DAP Creative Change
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VW DAP Creative Change,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:VWDAPCreativeChange@main.cobaltgroup.com|CN=List- VW DAP Creative Change
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VW DAP Creative Change,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:VWDAPCreativeChange@cobalt.com|CN=List- VW DAP Creative Change
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VW DAP Creative Change,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:VWDAPCreativeChange@cobaltgroup.com|CN=List- VW DAP Creative Change
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VW Marketing Promotions,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:VWMarketingPromotions@exchange.Cobaltgroup.com|CN=List- VW Marketing Promotions
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VW Marketing Promotions,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:VWMarketingPromotions@main.cobaltgroup.com|CN=List- VW Marketing Promotions
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VW Marketing Promotions,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:VWMarketingPromotions@cobalt.com|CN=List- VW Marketing Promotions
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VW Marketing Promotions,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:VWMarketingPromotions@cobaltgroup.com|CN=List- VW Marketing Promotions
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VW Monitoring,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:VWUptimeMon@cobaltgroup.com|CN=List- VW Monitoring
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VW Monitoring,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:VWUptimeMon@exchange.Cobaltgroup.com|CN=List- VW Monitoring
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VW Monitoring,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:VWUptimeMon@cobalt.com|CN=List- VW Monitoring
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VW Monitoring,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:VWUptimeMon@main.cobaltgroup.com|CN=List- VW Monitoring
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VW Sign Then Drive DI,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:VWSignThenDriveDI@exchange.Cobaltgroup.com|CN=List- VW Sign Then Drive DI
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VW Sign Then Drive DI,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:VWSignThenDriveDI@main.cobaltgroup.com|CN=List- VW Sign Then Drive DI
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VW Sign Then Drive DI,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:VWSignThenDriveDI@cobalt.com|CN=List- VW Sign Then Drive DI
+ldap://ldap.main.cobaltgroup.com:389/CN=List- VW Sign Then Drive DI,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:VWSignThenDriveDI@cobaltgroup.com|CN=List- VW Sign Then Drive DI
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites 3.0 Activation,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ws30activation@cobalt.com|CN=List- Web Sites 3.0 Activation
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites 3.0 Activation,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ws30activation@exchange.Cobaltgroup.com|CN=List- Web Sites 3.0 Activation
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites 3.0 Activation,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ws30activation@main.cobaltgroup.com|CN=List- Web Sites 3.0 Activation
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites 3.0 Activation,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:ws30activation@cobaltgroup.com|CN=List- Web Sites 3.0 Activation
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites 3.0 Core Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:websites3@exchange.Cobaltgroup.com|CN=List- Web Sites 3.0 Core Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites 3.0 Reporting,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WebSites3.0Reporting@cobalt.com|CN=List- Web Sites 3.0 Reporting
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites 3.0 Reporting,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WebSites3.0Reporting@exchange.Cobaltgroup.com|CN=List- Web Sites 3.0 Reporting
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites 3.0 Reporting,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WebSites3.0Reporting@main.cobaltgroup.com|CN=List- Web Sites 3.0 Reporting
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites 3.0 Reporting,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:WebSites3.0Reporting@cobaltgroup.com|CN=List- Web Sites 3.0 Reporting
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Bugpool,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:websitesbugpool@cobalt.com|CN=List- Web Sites Bugpool
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Bugpool,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:websitesbugpool@main.cobaltgroup.com|CN=List- Web Sites Bugpool
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Bugpool,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:websitesbugpool@exchange.Cobaltgroup.com|CN=List- Web Sites Bugpool
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Bugpool,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:websitesbugpool@Cobaltgroup.com|CN=List- Web Sites Bugpool
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Dev,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:websitesdev@exchange.Cobaltgroup.com|CN=List- Web Sites Dev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Dev,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:websitesdev@cobaltgroup.com|CN=List- Web Sites Dev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:WebSitesLeads@exchange.Cobaltgroup.com|CN=List- Web Sites Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Leads,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:websitesleads@cobaltgroup.com|CN=List- Web Sites Leads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Migration,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:websitemigration@cobaltgroup.com|CN=List- Web Sites Migration
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Migration,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:websitemigration@exchange.Cobaltgroup.com|CN=List- Web Sites Migration
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Migration,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:websitemigration@main.cobaltgroup.com|CN=List- Web Sites Migration
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Migration,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:websitemigration@cobalt.com|CN=List- Web Sites Migration
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Program Managers,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:web-progman@cobalt.com|CN=List- Web Sites Program Managers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Program Managers,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:web-progman@main.cobaltgroup.com|CN=List- Web Sites Program Managers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Program Managers,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:web-progman@exchange.cobaltgroup.com|CN=List- Web Sites Program Managers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Program Managers,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:web-progman@cobaltgroup.com|CN=List- Web Sites Program Managers
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Reqs Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:ListWSRT@exchange.Cobaltgroup.com|CN=List- Web Sites Reqs Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:websitesEGT@cobaltgroup.com|CN=List- Web Sites Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:websitesEGT@exchange.Cobaltgroup.com|CN=List- Web Sites Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:websitesEGT@cobalt.com|CN=List- Web Sites Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Web Sites Team,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:websitesEGT@main.cobaltgroup.com|CN=List- Web Sites Team
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Website Triage,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WebsiteTriage@exchange.Cobaltgroup.com|CN=List- Website Triage
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Website Triage,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WebsiteTriage@main.cobaltgroup.com|CN=List- Website Triage
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Website Triage,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WebsiteTriage@cobalt.com|CN=List- Website Triage
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Website Triage,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:WebsiteTriage@cobaltgroup.com|CN=List- Website Triage
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Websites 3.0 Accelerations,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ws30accelerations@cobalt.com|CN=List- Websites 3.0 Accelerations
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Websites 3.0 Accelerations,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ws30accelerations@exchange.Cobaltgroup.com|CN=List- Websites 3.0 Accelerations
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Websites 3.0 Accelerations,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:ws30accelerations@main.cobaltgroup.com|CN=List- Websites 3.0 Accelerations
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Websites 3.0 Accelerations,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:ws30accelerations@cobaltgroup.com|CN=List- Websites 3.0 Accelerations
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Websites Dev Automation,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WebsitesDevAutomation@cobalt.com|CN=List- Websites Dev Automation
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Websites Dev Automation,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WebsitesDevAutomation@exchange.Cobaltgroup.com|CN=List- Websites Dev Automation
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Websites Dev Automation,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WebsitesDevAutomation@main.cobaltgroup.com|CN=List- Websites Dev Automation
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Websites Dev Automation,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:WebsitesDevAutomation@cobaltgroup.com|CN=List- Websites Dev Automation
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Websites Support,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WebsitesSupport@cobalt.com|CN=List- Websites Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Websites Support,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WebsitesSupport@exchange.Cobaltgroup.com|CN=List- Websites Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Websites Support,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WebsitesSupport@main.cobaltgroup.com|CN=List- Websites Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Websites Support,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:WebsitesSupport@cobaltgroup.com|CN=List- Websites Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- WS Dev Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WSDevOps@exchange.Cobaltgroup.com|CN=List- WS Dev Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- WS Dev Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WSDevOps@main.cobaltgroup.com|CN=List- WS Dev Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- WS Dev Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WSDevOps@cobalt.com|CN=List- WS Dev Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- WS Dev Ops,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:WSDevOps@cobaltgroup.com|CN=List- WS Dev Ops
+ldap://ldap.main.cobaltgroup.com:389/CN=List- WS Release Notes,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:wsreleasenotes@exchange.Cobaltgroup.com|CN=List- WS Release Notes
+ldap://ldap.main.cobaltgroup.com:389/CN=List- WS Release Notes,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:wsreleasenotes@main.cobaltgroup.com|CN=List- WS Release Notes
+ldap://ldap.main.cobaltgroup.com:389/CN=List- WS Release Notes,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:wsreleasenotes@cobalt.com|CN=List- WS Release Notes
+ldap://ldap.main.cobaltgroup.com:389/CN=List- WS Release Notes,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:wsreleasenotes@cobaltgroup.com|CN=List- WS Release Notes
+ldap://ldap.main.cobaltgroup.com:389/CN=List- WS911,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WS911@exchange.Cobaltgroup.com|CN=List- WS911
+ldap://ldap.main.cobaltgroup.com:389/CN=List- WS911,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WS911@main.cobaltgroup.com|CN=List- WS911
+ldap://ldap.main.cobaltgroup.com:389/CN=List- WS911,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:WS911@cobalt.com|CN=List- WS911
+ldap://ldap.main.cobaltgroup.com:389/CN=List- WS911,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:WS911@cobaltgroup.com|CN=List- WS911
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Wsm Info,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:wsm_info@cobalt.com|CN=List- Wsm Info
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Wsm Info,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:wsm_info@main.cobaltgroup.com|CN=List- Wsm Info
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Wsm Info,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:wsm_info@exchange.Cobaltgroup.com|CN=List- Wsm Info
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Wsm Info,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:wsm_info@cobaltgroup.com|CN=List- Wsm Info
+ldap://ldap.main.cobaltgroup.com:389/CN=List -CS OM-ER,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-CSOM-ER@exchange.Cobaltgroup.com|CN=List -CS OM-ER
+ldap://ldap.main.cobaltgroup.com:389/CN=List -CS OM-ER,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-CSOM-ER@main.cobaltgroup.com|CN=List -CS OM-ER
+ldap://ldap.main.cobaltgroup.com:389/CN=List -CS OM-ER,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:List-CSOM-ER@cobalt.com|CN=List -CS OM-ER
+ldap://ldap.main.cobaltgroup.com:389/CN=List -CS OM-ER,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:List-CSOM-ER@cobaltgroup.com|CN=List -CS OM-ER
+ldap://ldap.main.cobaltgroup.com:389/CN=mailall,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:mailall@exchange.Cobaltgroup.com|CN=mailall
+ldap://ldap.main.cobaltgroup.com:389/CN=mailall,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:mailall@cobaltgroup.com|CN=mailall
+ldap://ldap.main.cobaltgroup.com:389/CN=mailall,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:mailall@cobalt.com|CN=mailall
+ldap://ldap.main.cobaltgroup.com:389/CN=mailall,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:mailall@main.cobaltgroup.com|CN=mailall
+ldap://ldap.main.cobaltgroup.com:389/CN=outages-post,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:outages-post@exchange.Cobaltgroup.com|CN=outages-post
+ldap://ldap.main.cobaltgroup.com:389/CN=outages-post,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:outages-post@cobaltgroup.com|CN=outages-post
+ldap://ldap.main.cobaltgroup.com:389/CN=outages-post,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:outages-post@cobalt.com|CN=outages-post
+ldap://ldap.main.cobaltgroup.com:389/CN=outages-post,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:outages-post@main.cobaltgroup.com|CN=outages-post
+ldap://ldap.main.cobaltgroup.com:389/CN=platservtest,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:platservtest@main.cobaltgroup.com|CN=platservtest
+ldap://ldap.main.cobaltgroup.com:389/CN=platservtest,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:platservtest@cobalt.com|CN=platservtest
+ldap://ldap.main.cobaltgroup.com:389/CN=platservtest,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:platservtest@exchange.cobaltgroup.com|CN=platservtest
+ldap://ldap.main.cobaltgroup.com:389/CN=platservtest,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:platservtest@cobaltgroup.com|CN=platservtest
+ldap://ldap.main.cobaltgroup.com:389/CN=platservtest,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:platservtest@Austin.CobaltGroup.com|CN=platservtest
+ldap://ldap.main.cobaltgroup.com:389/CN=Productactivation@cobaltgroup.com,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:productactivation@cobalt.com|CN=Productactivation@cobaltgroup.com
+ldap://ldap.main.cobaltgroup.com:389/CN=Productactivation@cobaltgroup.com,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:productactivation@main.cobaltgroup.com|CN=Productactivation@cobaltgroup.com
+ldap://ldap.main.cobaltgroup.com:389/CN=Productactivation@cobaltgroup.com,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:productactivation@exchange.Cobaltgroup.com|CN=Productactivation@cobaltgroup.com
+ldap://ldap.main.cobaltgroup.com:389/CN=Productactivation@cobaltgroup.com,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:productactivation@cobaltgroup.com|CN=Productactivation@cobaltgroup.com
+ldap://ldap.main.cobaltgroup.com:389/CN=PV-Arlingate-All,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:PV-Arlingate-All@cobaltgroup.com|CN=PV-Arlingate-All
+ldap://ldap.main.cobaltgroup.com:389/CN=PV-Arlingate-All,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:PV-Arlingate-All@exchange.Cobaltgroup.com|CN=PV-Arlingate-All
+ldap://ldap.main.cobaltgroup.com:389/CN=PV-Arlingate-All,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:PV-Arlingate-All@cobalt.com|CN=PV-Arlingate-All
+ldap://ldap.main.cobaltgroup.com:389/CN=PV-Arlingate-All,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:PV-Arlingate-All@main.cobaltgroup.com|CN=PV-Arlingate-All
+ldap://ldap.main.cobaltgroup.com:389/CN=Remove Vehicle,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:removevehicle@main.cobaltgroup.com|CN=Remove Vehicle
+ldap://ldap.main.cobaltgroup.com:389/CN=Remove Vehicle,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:removevehicle@cobalt.com|CN=Remove Vehicle
+ldap://ldap.main.cobaltgroup.com:389/CN=Remove Vehicle,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:removevehicle@motorplace.com|CN=Remove Vehicle
+ldap://ldap.main.cobaltgroup.com:389/CN=Remove Vehicle,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:removevehicle@exchange.cobaltgroup.com|CN=Remove Vehicle
+ldap://ldap.main.cobaltgroup.com:389/CN=Remove Vehicle,OU=Test,DC=main,DC=cobaltgroup,DC=com|SMTP:removevehicle@cobaltgroup.com|CN=Remove Vehicle
+ldap://ldap.main.cobaltgroup.com:389/CN=Remove Vehicle,OU=Test,DC=main,DC=cobaltgroup,DC=com|smtp:removevehicle@Austin.CobaltGroup.com|CN=Remove Vehicle

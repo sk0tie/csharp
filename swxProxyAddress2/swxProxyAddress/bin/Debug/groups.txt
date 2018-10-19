@@ -1,0 +1,40 @@
+ldap://ldap.main.cobaltgroup.com:389/CN=Gryphon Admin,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:GryphonAdmin@exchange.Cobaltgroup.com|CN=Gryphon Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=Gryphon Admin,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:GryphonAdmin@main.cobaltgroup.com|CN=Gryphon Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=Gryphon Admin,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:GryphonAdmin@cobalt.com|CN=Gryphon Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=Gryphon Admin,OU=Groups,DC=main,DC=cobaltgroup,DC=com|SMTP:GryphonAdmin@cobaltgroup.com|CN=Gryphon Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=Gryphon User,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:GryphonUser@exchange.Cobaltgroup.com|CN=Gryphon User
+ldap://ldap.main.cobaltgroup.com:389/CN=Gryphon User,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:GryphonUser@main.cobaltgroup.com|CN=Gryphon User
+ldap://ldap.main.cobaltgroup.com:389/CN=Gryphon User,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:GryphonUser@cobalt.com|CN=Gryphon User
+ldap://ldap.main.cobaltgroup.com:389/CN=Gryphon User,OU=Groups,DC=main,DC=cobaltgroup,DC=com|SMTP:GryphonUser@cobaltgroup.com|CN=Gryphon User
+ldap://ldap.main.cobaltgroup.com:389/CN=OracleFinancialTSUsers,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:List-OracleFinancialTSUsers@cobalt.com|CN=OracleFinancialTSUsers
+ldap://ldap.main.cobaltgroup.com:389/CN=OracleFinancialTSUsers,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:List-OracleFinancialTSUsers@exchange.Cobaltgroup.com|CN=OracleFinancialTSUsers
+ldap://ldap.main.cobaltgroup.com:389/CN=OracleFinancialTSUsers,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:List-OracleFinancialTSUsers@main.cobaltgroup.com|CN=OracleFinancialTSUsers
+ldap://ldap.main.cobaltgroup.com:389/CN=OracleFinancialTSUsers,OU=Groups,DC=main,DC=cobaltgroup,DC=com|SMTP:List-OracleFinancialTSUsers@cobaltgroup.com|CN=OracleFinancialTSUsers
+ldap://ldap.main.cobaltgroup.com:389/CN=ProjectOne,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:ProjectOne@cobalt.com|CN=ProjectOne
+ldap://ldap.main.cobaltgroup.com:389/CN=ProjectOne,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:ProjectOne@exchange.Cobaltgroup.com|CN=ProjectOne
+ldap://ldap.main.cobaltgroup.com:389/CN=ProjectOne,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:ProjectOne@main.cobaltgroup.com|CN=ProjectOne
+ldap://ldap.main.cobaltgroup.com:389/CN=ProjectOne,OU=Groups,DC=main,DC=cobaltgroup,DC=com|SMTP:ProjectOne@cobaltgroup.com|CN=ProjectOne
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Admins,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkAdmins@exchange.Cobaltgroup.com|CN=Splunk Admins
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Admins,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkAdmins@main.cobaltgroup.com|CN=Splunk Admins
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Admins,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkAdmins@cobalt.com|CN=Splunk Admins
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Admins,OU=Groups,DC=main,DC=cobaltgroup,DC=com|SMTP:SplunkAdmins@cobaltgroup.com|CN=Splunk Admins
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Informatica Users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkInformaticaUsers@exchange.Cobaltgroup.com|CN=Splunk Informatica Users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Informatica Users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkInformaticaUsers@main.cobaltgroup.com|CN=Splunk Informatica Users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Informatica Users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkInformaticaUsers@cobalt.com|CN=Splunk Informatica Users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Informatica Users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|SMTP:SplunkInformaticaUsers@cobaltgroup.com|CN=Splunk Informatica Users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Networking users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkNetworkingusers@exchange.Cobaltgroup.com|CN=Splunk Networking users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Networking users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkNetworkingusers@main.cobaltgroup.com|CN=Splunk Networking users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Networking users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkNetworkingusers@cobalt.com|CN=Splunk Networking users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Networking users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|SMTP:SplunkNetworkingusers@cobaltgroup.com|CN=Splunk Networking users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Power Users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkPowerUsers@exchange.Cobaltgroup.com|CN=Splunk Power Users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Power Users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkPowerUsers@main.cobaltgroup.com|CN=Splunk Power Users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Power Users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkPowerUsers@cobalt.com|CN=Splunk Power Users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Power Users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|SMTP:SplunkPowerUsers@cobaltgroup.com|CN=Splunk Power Users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkUsers@exchange.Cobaltgroup.com|CN=Splunk Users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkUsers@main.cobaltgroup.com|CN=Splunk Users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkUsers@cobalt.com|CN=Splunk Users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|SMTP:SplunkUsers@cobaltgroup.com|CN=Splunk Users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Websites Users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkWebsitesUsers@exchange.Cobaltgroup.com|CN=Splunk Websites Users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Websites Users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkWebsitesUsers@main.cobaltgroup.com|CN=Splunk Websites Users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Websites Users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|smtp:SplunkWebsitesUsers@cobalt.com|CN=Splunk Websites Users
+ldap://ldap.main.cobaltgroup.com:389/CN=Splunk Websites Users,OU=Groups,DC=main,DC=cobaltgroup,DC=com|SMTP:SplunkWebsitesUsers@cobaltgroup.com|CN=Splunk Websites Users

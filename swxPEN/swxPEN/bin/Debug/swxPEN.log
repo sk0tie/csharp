@@ -1,0 +1,14 @@
+9/19/2011 12:36:16 PM: WARNING | swxPEN.ini file missing; default configuration will be created.
+9/19/2011 12:36:16 PM: Contacting mydomain.com...
+9/19/2011 12:36:41 PM: ERROR | System.DirectoryServices.AccountManagement.PrincipalServerDownException: The server could not be contacted. ---> System.DirectoryServices.Protocols.LdapException: The LDAP server is unavailable.
+   at System.DirectoryServices.Protocols.LdapConnection.Connect()
+   at System.DirectoryServices.Protocols.LdapConnection.SendRequestHelper(DirectoryRequest request, Int32& messageID)
+   at System.DirectoryServices.Protocols.LdapConnection.SendRequest(DirectoryRequest request, TimeSpan requestTimeout)
+   at System.DirectoryServices.Protocols.LdapConnection.SendRequest(DirectoryRequest request)
+   at System.DirectoryServices.AccountManagement.PrincipalContext.ReadServerConfig(String serverName, ServerProperties& properties)
+   --- End of inner exception stack trace ---
+   at System.DirectoryServices.AccountManagement.PrincipalContext.ReadServerConfig(String serverName, ServerProperties& properties)
+   at System.DirectoryServices.AccountManagement.PrincipalContext.DoServerVerifyAndPropRetrieval()
+   at System.DirectoryServices.AccountManagement.PrincipalContext..ctor(ContextType contextType, String name, String container, ContextOptions options, String userName, String password)
+   at System.DirectoryServices.AccountManagement.PrincipalContext..ctor(ContextType contextType, String name)
+   at swxPEN.swxPEN.Main(String[] args) in C:\Users\wilcoxs\documents\visual studio 2010\Projects\swxPEN\swxPEN\swxPEN.cs:line 141

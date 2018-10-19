@@ -1,0 +1,5 @@
+C:\Users\wilcoxs\documents\visual studio 2010\Projects\swxPEN\swxPEN\bin\Debug\swxPEN.exe
+C:\Users\wilcoxs\documents\visual studio 2010\Projects\swxPEN\swxPEN\bin\Debug\swxPEN.pdb
+C:\Users\wilcoxs\documents\visual studio 2010\Projects\swxPEN\swxPEN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wilcoxs\documents\visual studio 2010\Projects\swxPEN\swxPEN\obj\x86\Debug\swxPEN.exe
+C:\Users\wilcoxs\documents\visual studio 2010\Projects\swxPEN\swxPEN\obj\x86\Debug\swxPEN.pdb

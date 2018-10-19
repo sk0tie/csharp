@@ -1,0 +1,182 @@
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Abuse,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAbuse@cobalt.com|CN=List- OnStation Abuse
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Abuse,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAbuse@no-filter.exchange.cobaltgroup.com|CN=List- OnStation Abuse
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Abuse,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAbuse@main.cobaltgroup.com|CN=List- OnStation Abuse
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Abuse,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAbuse@exchange.Cobaltgroup.com|CN=List- OnStation Abuse
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Abuse,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSAbuse@cobaltgroup.com|CN=List- OnStation Abuse
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Accounts Payable,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAccountsPayable@cobalt.com|CN=List- OnStation Accounts Payable
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Accounts Payable,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAccountsPayable@main.cobaltgroup.com|CN=List- OnStation Accounts Payable
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Accounts Payable,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSAccountsPayable@cobaltgroup.com|CN=List- OnStation Accounts Payable
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Accounts Payable,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAccountsPayable@exchange.Cobaltgroup.com|CN=List- OnStation Accounts Payable
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Ads,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAds@cobalt.com|CN=List- OnStation Ads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Ads,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAds@main.cobaltgroup.com|CN=List- OnStation Ads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Ads,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAds@exchange.Cobaltgroup.com|CN=List- OnStation Ads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Ads,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSAds@cobaltgroup.com|CN=List- OnStation Ads
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Aftermarket ISR,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAftermarketISR@cobalt.com|CN=List- OnStation Aftermarket ISR
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Aftermarket ISR,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAftermarketISR@main.cobaltgroup.com|CN=List- OnStation Aftermarket ISR
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Aftermarket ISR,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAftermarketISR@exchange.Cobaltgroup.com|CN=List- OnStation Aftermarket ISR
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Aftermarket ISR,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSAftermarketISR@cobaltgroup.com|CN=List- OnStation Aftermarket ISR
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation All,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAll@cobalt.com|CN=List- OnStation All
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation All,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAll@main.cobaltgroup.com|CN=List- OnStation All
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation All,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAll@exchange.Cobaltgroup.com|CN=List- OnStation All
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation All,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSAll@cobaltgroup.com|CN=List- OnStation All
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation AuthenticomDI,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAuthenticomDI@cobalt.com|CN=List- OnStation AuthenticomDI
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation AuthenticomDI,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAuthenticomDI@main.cobaltgroup.com|CN=List- OnStation AuthenticomDI
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation AuthenticomDI,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAuthenticomDI@exchange.Cobaltgroup.com|CN=List- OnStation AuthenticomDI
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation AuthenticomDI,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSAuthenticomDI@cobaltgroup.com|CN=List- OnStation AuthenticomDI
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Autocard,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAutocard@cobalt.com|CN=List- OnStation Autocard
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Autocard,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAutocard@main.cobaltgroup.com|CN=List- OnStation Autocard
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Autocard,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSAutocard@exchange.Cobaltgroup.com|CN=List- OnStation Autocard
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Autocard,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSAutocard@cobaltgroup.com|CN=List- OnStation Autocard
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Backup,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSBackup@cobalt.com|CN=List- OnStation Backup
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Backup,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSBackup@main.cobaltgroup.com|CN=List- OnStation Backup
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Backup,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSBackup@exchange.Cobaltgroup.com|CN=List- OnStation Backup
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Backup,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSBackup@cobaltgroup.com|CN=List- OnStation Backup
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Billing,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSBilling@cobalt.com|CN=List- OnStation Billing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Billing,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSBilling@main.cobaltgroup.com|CN=List- OnStation Billing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Billing,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSBilling@exchange.Cobaltgroup.com|CN=List- OnStation Billing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Billing,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSBilling@cobaltgroup.com|CN=List- OnStation Billing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation BizDev,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSBizDev@cobalt.com|CN=List- OnStation BizDev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation BizDev,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSBizDev@main.cobaltgroup.com|CN=List- OnStation BizDev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation BizDev,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSBizDev@exchange.Cobaltgroup.com|CN=List- OnStation BizDev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation BizDev,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSBizDev@cobaltgroup.com|CN=List- OnStation BizDev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation BOD,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSBOD@cobalt.com|CN=List- OnStation BOD
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation BOD,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSBOD@main.cobaltgroup.com|CN=List- OnStation BOD
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation BOD,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSBOD@exchange.Cobaltgroup.com|CN=List- OnStation BOD
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation BOD,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSBOD@cobaltgroup.com|CN=List- OnStation BOD
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Creative,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSCreative@cobalt.com|CN=List- OnStation Creative
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Creative,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSCreative@main.cobaltgroup.com|CN=List- OnStation Creative
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Creative,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSCreative@exchange.Cobaltgroup.com|CN=List- OnStation Creative
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Creative,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSCreative@cobaltgroup.com|CN=List- OnStation Creative
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Onstation DBAs,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OnstationDBAs@cobalt.com|CN=List- Onstation DBAs
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Onstation DBAs,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:onstationdbas@no-filter.exchange.cobaltgroup.com|CN=List- Onstation DBAs
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Onstation DBAs,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:list-onstationdbas@cobaltgroup.com|CN=List- Onstation DBAs
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Onstation DBAs,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:list-onstationdbas@exchange.cobaltgroup.com|CN=List- Onstation DBAs
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Onstation DBAs,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OnstationDBAs@exchange.Cobaltgroup.com|CN=List- Onstation DBAs
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Onstation DBAs,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OnstationDBAs@main.cobaltgroup.com|CN=List- Onstation DBAs
+ldap://ldap.main.cobaltgroup.com:389/CN=List- Onstation DBAs,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OnstationDBAs@cobaltgroup.com|CN=List- Onstation DBAs
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Dealer ISR,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDealerISR@cobalt.com|CN=List- OnStation Dealer ISR
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Dealer ISR,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDealerISR@main.cobaltgroup.com|CN=List- OnStation Dealer ISR
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Dealer ISR,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDealerISR@exchange.Cobaltgroup.com|CN=List- OnStation Dealer ISR
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Dealer ISR,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSDealerISR@cobaltgroup.com|CN=List- OnStation Dealer ISR
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Dealer Sales,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDealerSales@cobalt.com|CN=List- OnStation Dealer Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Dealer Sales,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDealerSales@main.cobaltgroup.com|CN=List- OnStation Dealer Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Dealer Sales,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDealerSales@exchange.Cobaltgroup.com|CN=List- OnStation Dealer Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Dealer Sales,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSDealerSales@cobaltgroup.com|CN=List- OnStation Dealer Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Dealer Support,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDealerSupport@cobalt.com|CN=List- OnStation Dealer Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Dealer Support,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDealerSupport@main.cobaltgroup.com|CN=List- OnStation Dealer Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Dealer Support,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDealerSupport@exchange.Cobaltgroup.com|CN=List- OnStation Dealer Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Dealer Support,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSDealerSupport@cobaltgroup.com|CN=List- OnStation Dealer Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Deployment,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDeployment@cobalt.com|CN=List- OnStation Deployment
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Deployment,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDeployment@main.cobaltgroup.com|CN=List- OnStation Deployment
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Deployment,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDeployment@exchange.Cobaltgroup.com|CN=List- OnStation Deployment
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Deployment,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSDeployment@cobaltgroup.com|CN=List- OnStation Deployment
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Dev,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDev@cobalt.com|CN=List- OnStation Dev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Dev,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDev@main.cobaltgroup.com|CN=List- OnStation Dev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Dev,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDev@exchange.Cobaltgroup.com|CN=List- OnStation Dev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Dev,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSDev@cobaltgroup.com|CN=List- OnStation Dev
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation DI,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDI@cobalt.com|CN=List- OnStation DI
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation DI,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDI@main.cobaltgroup.com|CN=List- OnStation DI
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation DI,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSDI@exchange.Cobaltgroup.com|CN=List- OnStation DI
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation DI,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSDI@cobaltgroup.com|CN=List- OnStation DI
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation eMarketing,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSeMarketing@cobalt.com|CN=List- OnStation eMarketing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation eMarketing,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSeMarketing@main.cobaltgroup.com|CN=List- OnStation eMarketing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation eMarketing,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSeMarketing@exchange.Cobaltgroup.com|CN=List- OnStation eMarketing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation eMarketing,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSeMarketing@cobaltgroup.com|CN=List- OnStation eMarketing
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Engineering,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSEngineering@cobalt.com|CN=List- OnStation Engineering
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Engineering,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSEngineering@main.cobaltgroup.com|CN=List- OnStation Engineering
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Engineering,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSEngineering@exchange.Cobaltgroup.com|CN=List- OnStation Engineering
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Engineering,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSEngineering@cobaltgroup.com|CN=List- OnStation Engineering
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Exec,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSExec@cobalt.com|CN=List- OnStation Exec
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Exec,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSExec@main.cobaltgroup.com|CN=List- OnStation Exec
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Exec,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSExec@exchange.Cobaltgroup.com|CN=List- OnStation Exec
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Exec,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSExec@cobaltgroup.com|CN=List- OnStation Exec
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Field Sales,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSFieldSales@cobalt.com|CN=List- OnStation Field Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Field Sales,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSFieldSales@main.cobaltgroup.com|CN=List- OnStation Field Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Field Sales,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSFieldSales@exchange.Cobaltgroup.com|CN=List- OnStation Field Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Field Sales,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSFieldSales@cobaltgroup.com|CN=List- OnStation Field Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Finance,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSFinance@cobalt.com|CN=List- OnStation Finance
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Finance,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSFinance@main.cobaltgroup.com|CN=List- OnStation Finance
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Finance,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSFinance@exchange.Cobaltgroup.com|CN=List- OnStation Finance
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Finance,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSFinance@cobaltgroup.com|CN=List- OnStation Finance
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Hotlist,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSHotlist@cobalt.com|CN=List- OnStation Hotlist
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Hotlist,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSHotlist@main.cobaltgroup.com|CN=List- OnStation Hotlist
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Hotlist,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSHotlist@exchange.Cobaltgroup.com|CN=List- OnStation Hotlist
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Hotlist,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSHotlist@cobaltgroup.com|CN=List- OnStation Hotlist
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Info,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSInfo@cobalt.com|CN=List- OnStation Info
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Info,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSInfo@main.cobaltgroup.com|CN=List- OnStation Info
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Info,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSInfo@exchange.Cobaltgroup.com|CN=List- OnStation Info
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Info,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSInfo@cobaltgroup.com|CN=List- OnStation Info
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Inside Sales,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSInsideSales@cobalt.com|CN=List- OnStation Inside Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Inside Sales,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSInsideSales@main.cobaltgroup.com|CN=List- OnStation Inside Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Inside Sales,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSInsideSales@exchange.Cobaltgroup.com|CN=List- OnStation Inside Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Inside Sales,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSInsideSales@cobaltgroup.com|CN=List- OnStation Inside Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation IT,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSIT@main.cobaltgroup.com|CN=List- OnStation IT
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation IT,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSIT@exchange.Cobaltgroup.com|CN=List- OnStation IT
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation IT,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSIT@cobaltgroup.com|CN=List- OnStation IT
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation IT Support,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSITSupport@cobalt.com|CN=List- OnStation IT Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation IT Support,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSITSupport@main.cobaltgroup.com|CN=List- OnStation IT Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation IT Support,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSITSupport@exchange.Cobaltgroup.com|CN=List- OnStation IT Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation IT Support,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSITSupport@cobaltgroup.com|CN=List- OnStation IT Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation IT Vendors,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSITVendors@cobalt.com|CN=List- OnStation IT Vendors
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation IT Vendors,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSITVendors@main.cobaltgroup.com|CN=List- OnStation IT Vendors
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation IT Vendors,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSITVendors@exchange.Cobaltgroup.com|CN=List- OnStation IT Vendors
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation IT Vendors,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSITVendors@cobaltgroup.com|CN=List- OnStation IT Vendors
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Jobs,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSJobs@cobalt.com|CN=List- OnStation Jobs
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Jobs,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSJobs@main.cobaltgroup.com|CN=List- OnStation Jobs
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Jobs,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSJobs@exchange.Cobaltgroup.com|CN=List- OnStation Jobs
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Jobs,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSJobs@cobaltgroup.com|CN=List- OnStation Jobs
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Main eFax,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSFax@cobalt.com|CN=List- OnStation Main eFax
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Main eFax,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSFax@main.cobaltgroup.com|CN=List- OnStation Main eFax
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Main eFax,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSFax@exchange.Cobaltgroup.com|CN=List- OnStation Main eFax
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Main eFax,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSFax@cobaltgroup.com|CN=List- OnStation Main eFax
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Mktg Jobs,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSMktgJobs@cobalt.com|CN=List- OnStation Mktg Jobs
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Mktg Jobs,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSMktgJobs@cobaltgroup.com|CN=List- OnStation Mktg Jobs
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Mktg Jobs,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSMktgJobs@exchange.Cobaltgroup.com|CN=List- OnStation Mktg Jobs
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Mktg Jobs,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSMktgJobs@main.cobaltgroup.com|CN=List- OnStation Mktg Jobs
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Nada,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSNada@cobalt.com|CN=List- OnStation Nada
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Nada,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSNada@cobaltgroup.com|CN=List- OnStation Nada
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Nada,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSNada@main.cobaltgroup.com|CN=List- OnStation Nada
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Nada,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSNada@exchange.Cobaltgroup.com|CN=List- OnStation Nada
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Products,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSProducts@cobalt.com|CN=List- OnStation Products
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Products,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSProducts@main.cobaltgroup.com|CN=List- OnStation Products
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Products,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSProducts@exchange.Cobaltgroup.com|CN=List- OnStation Products
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Products,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSProducts@cobaltgroup.com|CN=List- OnStation Products
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation QA,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSQA@cobalt.com|CN=List- OnStation QA
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation QA,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSQA@main.cobaltgroup.com|CN=List- OnStation QA
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation QA,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSQA@exchange.Cobaltgroup.com|CN=List- OnStation QA
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation QA,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSQA@cobaltgroup.com|CN=List- OnStation QA
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation QAAuto,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSQAAuto@cobalt.com|CN=List- OnStation QAAuto
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation QAAuto,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:osQAAuto@main.cobaltgroup.com|CN=List- OnStation QAAuto
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation QAAuto,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:osQAAuto@exchange.Cobaltgroup.com|CN=List- OnStation QAAuto
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation QAAuto,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSQAAuto@cobaltgroup.com|CN=List- OnStation QAAuto
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation RackSpace,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:osRackSpace@exchange.Cobaltgroup.com|CN=List- OnStation RackSpace
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation RackSpace,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:osRackSpace@main.cobaltgroup.com|CN=List- OnStation RackSpace
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation RackSpace,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSRackSpace@cobaltgroup.com|CN=List- OnStation RackSpace
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Sales,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSSales@cobalt.com|CN=List- OnStation Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Sales,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSSales@main.cobaltgroup.com|CN=List- OnStation Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Sales,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSSales@exchange.Cobaltgroup.com|CN=List- OnStation Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Sales,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSSales@cobaltgroup.com|CN=List- OnStation Sales
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Salesforce Admin,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSSalesforceAdmin@cobalt.com|CN=List- OnStation Salesforce Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Salesforce Admin,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSSalesforceAdmin@main.cobaltgroup.com|CN=List- OnStation Salesforce Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Salesforce Admin,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSSalesforceAdmin@exchange.Cobaltgroup.com|CN=List- OnStation Salesforce Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Salesforce Admin,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSSalesforceAdmin@cobaltgroup.com|CN=List- OnStation Salesforce Admin
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Sample,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSSample@cobalt.com|CN=List- OnStation Sample
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Sample,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSSample@main.cobaltgroup.com|CN=List- OnStation Sample
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Sample,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSSample@exchange.Cobaltgroup.com|CN=List- OnStation Sample
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Sample,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSSample@cobaltgroup.com|CN=List- OnStation Sample
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Support,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSSupport@cobalt.com|CN=List- OnStation Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Support,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSSupport@main.cobaltgroup.com|CN=List- OnStation Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Support,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSSupport@exchange.Cobaltgroup.com|CN=List- OnStation Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Support,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSSupport@cobaltgroup.com|CN=List- OnStation Support
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Syslog,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSSyslog@cobalt.com|CN=List- OnStation Syslog
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Syslog,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSSyslog@exchange.Cobaltgroup.com|CN=List- OnStation Syslog
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Syslog,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSSyslog@cobaltgroup.com|CN=List- OnStation Syslog
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation Syslog,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSSyslog@main.cobaltgroup.com|CN=List- OnStation Syslog
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation xstaff,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSxstaff@cobalt.com|CN=List- OnStation xstaff
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation xstaff,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSxstaff@main.cobaltgroup.com|CN=List- OnStation xstaff
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation xstaff,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OSxstaff@exchange.Cobaltgroup.com|CN=List- OnStation xstaff
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OnStation xstaff,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OSxstaff@cobaltgroup.com|CN=List- OnStation xstaff
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OS-EmailBuilders,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OS-EmailBuilders@cobalt.com|CN=List- OS-EmailBuilders
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OS-EmailBuilders,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OS-EmailBuilders@exchange.Cobaltgroup.com|CN=List- OS-EmailBuilders
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OS-EmailBuilders,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|smtp:OS-EmailBuilders@main.cobaltgroup.com|CN=List- OS-EmailBuilders
+ldap://ldap.main.cobaltgroup.com:389/CN=List- OS-EmailBuilders,OU=Groups,OU=OnStation,DC=main,DC=cobaltgroup,DC=com|SMTP:OS-EmailBuilders@cobaltgroup.com|CN=List- OS-EmailBuilders

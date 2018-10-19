@@ -1,0 +1,547 @@
+psgmprogram@exchange.cobaltgroup.com|List- PS GM Program
+vwleadmanager@exchange.cobaltgroup.com|List- Sales VW Leadmanager
+gmleads@no-filter.exchange.cobaltgroup.com|List- GM Leads
+anthill@exchange.cobaltgroup.com|List- CM Anthill
+arg-link-reports@exchange.cobaltgroup.com|List- ARG-Link- Reports
+admintegrationtickets@cobaltgroup.com|List- AdMission Integration Tickets
+ifsordermgmt@exchange.cobaltgroup.com|List- IFS Order Mgmt
+osit@exchange.cobaltgroup.com|List- OnStation IT
+ossales@cobaltgroup.com|List- OnStation Sales
+ps-subaru-prog@exchange.cobaltgroup.com|List- PS Subaru Program
+ifsosimplementation@no-filter.exchange.cobaltgroup.com|List- IFS OS Implementation
+ets@exchange.cobaltgroup.com|List- Customer Services ETS
+admhelpgroup@cobaltgroup.com|List- AdMission Help Group
+nitraassets@exchange.cobaltgroup.com|List- Nitra Assets
+landingpages@exchange.cobaltgroup.com|List- landingpages
+MarchexNotifications@exchange.cobaltgroup.com|List- Marchex Notifications
+ps-acura-prog@exchange.cobaltgroup.com|List- PS Acura Program
+osfax@exchange.cobaltgroup.com|List- OnStation Main eFax
+x-time2@exchange.cobaltgroup.com|List- GCS X-Time
+salesleads@exchange.cobaltgroup.com|List- Sales Leads
+unixhost@exchange.cobaltgroup.com|List- IT UnixHost
+osbizdev@exchange.cobaltgroup.com|List- OnStation BizDev
+osjobs@cobaltgroup.com|List- OnStation Jobs
+pcxrequests@exchange.cobaltgroup.com|List- PartsWorks PCX Category Requests
+vwmexico@exchange.cobaltgroup.com|List- PS VW Mexico
+admjobs@cobaltgroup.com|List- AdMission Jobs
+ifsdms@exchange.cobaltgroup.com|List- IFS DMS
+blogfeedback@exchange.cobaltgroup.com|List- Marketing Blog Feedback
+bat-admin@cobaltgroup.com|List- BAT Admin
+servicesintegrationteam@exchange.cobaltgroup.com|List- Services Integration Team
+nitracollections@exchange.cobaltgroup.com|List- Nitra Collections
+semops@exchange.Cobaltgroup.com|List- SEM Ops
+csreporting@exchange.cobaltgroup.com|List- Customer Services Reporting Team
+pwdev@exchange.cobaltgroup.com|List- PartsWorks - EGT Prod Dev
+prospector-l3@exchange.cobaltgroup.com|List- Prospector Level 3
+sembilling@exchange.cobaltgroup.com|List- SEM Billing
+ps-hyundai-prog@exchange.cobaltgroup.com|List- PS Hyundai Program
+osfieldsales@exchange.cobaltgroup.com|List- OnStation Field Sales
+admautobytel@cobaltgroup.com|List- AdMission Autobytel
+displaysandbox@no-filter.exchange.cobaltgroup.com|List- Display Sandbox
+oshotlist@exchange.cobaltgroup.com|List- OnStation Hotlist
+pitcrew@exchange.cobaltgroup.com|List- HR Pit Crew
+powershift@exchange.cobaltgroup.com|List- GM Powershift
+audileads@exchange.cobaltgroup.com|List- GCS Audi Leads
+vahainfo@exchange.cobaltgroup.com|List- VAHA Info
+b-c1hr@exchange.cobaltgroup.com|List- PS b-c1hr
+ositsupport@exchange.cobaltgroup.com|List- OnStation IT Support
+admopssev3@no-filter.exchange.cobaltgroup.com|List- Admission Ops Sev3
+lmacobalt@exchange.cobaltgroup.com|List- LMA Cobalt
+lmsources@exchange.cobaltgroup.com|List- PM LM Sources
+websitetriage@exchange.cobaltgroup.com|List- Website Triage
+osbizdev@cobaltgroup.com|List- OnStation BizDev
+admintegrationgroup@cobaltgroup.com|List- AdMission Integration Group
+perforce@exchange.cobaltgroup.com|List- Perforce
+ps-mitsu-prog@exchange.cobaltgroup.com|List- PS Mitsubishi Program
+lm-migrator@exchange.cobaltgroup.com|List- IT LM Migrator
+admreports@cobaltgroup.com|List- AdMission Reports
+admreports@no-filter.exchange.cobaltgroup.com|List- AdMission Reports
+paidsearchspecialists@exchange.cobaltgroup.com|List- Paid Search Specialists
+osqaauto@cobaltgroup.com|List- OnStation QAAuto
+osall@cobaltgroup.com|List- OnStation All
+austinhelp@exchange.cobaltgroup.com|List- Austin Help
+timehelp@exchange.cobaltgroup.com|List- Timehelp
+psqa@exchange.cobaltgroup.com|List- PS QA
+unix@cobaltgroup.com|List- Unix
+psminiprogram@exchange.cobaltgroup.com|List- PS MINI Program
+aag@exchange.cobaltgroup.com|List- Advanced Analytics Group
+prospectoractionplan@exchange.cobaltgroup.com|List- Prospector Action Plan
+admhelpgroup@no-filter.exchange.cobaltgroup.com|List- AdMission Help Group
+onstationdataops@cobaltgroup.com|List- OnStation Data Ops
+bat-leads@cobaltgroup.com|List- BAT Leads
+gmnotify@exchange.cobaltgroup.com|List- GM Notify
+removevehicle@exchange.cobaltgroup.com|Remove Vehicle
+unix@exchange.cobaltgroup.com|List- Unix
+changeboard@exchange.cobaltgroup.com|List- Change Board
+osabuse@cobaltgroup.com|List- OnStation Abuse
+entacctmgt@exchange.cobaltgroup.com|List- Enterprise Sales All
+abup1prodbugescalation@exchange.cobaltgroup.com|List- ABU P1 Prod Bug Escalation
+osexec@cobaltgroup.com|List- OnStation Exec
+osdealerisr@exchange.cobaltgroup.com|List- OnStation Dealer ISR
+lm3beta@exchange.cobaltgroup.com|List- eCRM LM3 Beta
+concurexpensehelp@exchange.cobaltgroup.com|List- Concur Expense Help
+admopsnotify@no-filter.exchange.cobaltgroup.com|List- AdMission Ops Notify
+dailyactivationslinks@exchange.cobaltgroup.com|List- IS DailyActivationsLinks
+admqa@no-filter.exchange.cobaltgroup.com|List- AdMission QA
+ops@cobaltgroup.com|List- IT Operations-1
+admopspgr@no-filter.exchange.cobaltgroup.com|List- AdMission Ops Pager
+admonitor@cobaltgroup.com|List- AdMission Monitor
+admvball@cobaltgroup.com|List- AdMission Vball
+admqajobs@no-filter.exchange.cobaltgroup.com|List- AdMission QA Jobs
+data@exchange.cobaltgroup.com|List- IS Data
+osqa@exchange.cobaltgroup.com|List- OnStation QA
+electronicinvoices@exchange.cobaltgroup.com|List- Electronic Invoices
+hchron@exchange.cobaltgroup.com|List- BizDev hchron
+gmimrmetrics@exchange.cobaltgroup.com|List- GM IMR Metrics
+chryslercanada@exchange.cobaltgroup.com|List- GCS Chrysler Canada
+adpquestions@exchange.cobaltgroup.com|List- HR ADP Questions
+aus-contract@exchange.cobaltgroup.com|List- Austin Contract
+OOSExtracts-vwsubscription2010@exchange.cobaltgroup.com|List- OOS Extracts - VW Subscription 2010
+osdev@exchange.cobaltgroup.com|List- OnStation Dev
+mitsu@exchange.cobaltgroup.com|List- GCS Mitsu
+nitraproduct@exchange.cobaltgroup.com|List- Nitra Product
+lexusalert@exchange.cobaltgroup.com|List- Lexus Alerts
+departures@exchange.cobaltgroup.com|List- Departures
+osads@exchange.cobaltgroup.com|List- OnStation Ads
+prod_domains@exchange.cobaltgroup.com|List- Production Domains
+oracleappsfinancereporting@exchange.cobaltgroup.com|List- Oracle Apps Finance Reporting
+oracleappsomreporting@exchange.cobaltgroup.com|List- Oracle Apps OM Reporting
+web-progman@exchange.cobaltgroup.com|List- Web Sites Program Managers
+admopssev1@no-filter.exchange.cobaltgroup.com|List- AdMission Ops Sev1
+customerdata@exchange.cobaltgroup.com|List- Customer Data
+psbmw_minileadalerts@exchange.cobaltgroup.com|List- PS BMW_MINI Lead Alerts
+partsvoicecustomers@exchange.cobaltgroup.com|List- Partsvoice Customers
+admswdev@no-filter.exchange.cobaltgroup.com|List- AdMission Software Dev
+seattle_employees@exchange.cobaltgroup.com|List- Seattle Employees
+admrdominypage@cobaltgroup.com|rdominypage
+ps-chrysler-bugzilla@exchange.cobaltgroup.com|List- PS Chrysler Bugzilla
+is@exchange.cobaltgroup.com|List- IS
+ap@exchange.cobaltgroup.com|List- Finance AP
+aseast@exchange.cobaltgroup.com|List- GCS East
+coecoremerchandizingwebsitesdev@exchange.cobaltgroup.com|List- COE Core Merchandizing Websites Dev
+websitesbugpool@exchange.cobaltgroup.com|List- Web Sites Bugpool
+searchessentialsmgmt@no-filter.exchange.cobaltgroup.com|List- Search Essentials Mgmt
+oscreative@cobaltgroup.com|List- OnStation Creative
+WSM_Info@exchange.cobaltgroup.com|List- Wsm Info
+admops@cobaltgroup.com|List- AdMission Ops
+osorders@exchange.cobaltgroup.com|List- OSOrders
+ps-tag-prog@exchange.cobaltgroup.com|List- PS Thrifty Auto Group Program
+dcx-marketcenter@exchange.cobaltgroup.com|List- GCS DCX Market Center
+osrackspace@cobaltgroup.com|List- OnStation RackSpace
+admlootreport@cobaltgroup.com|List- Admission Loot Report
+backups@exchange.cobaltgroup.com|List- IT Backups
+lmccaol@exchange.cobaltgroup.com|List- LMCC AOL
+gcsacctmgr@exchange.cobaltgroup.com|List- GCS Account Managers
+unixstaff@exchange.cobaltgroup.com|List- IT UnixStaff
+jobs@cobaltgroup.com|List- HR Jobs
+dcxadmin@exchange.cobaltgroup.com|List- GCS DCX Admin
+osmktgjobs@exchange.cobaltgroup.com|List- OnStation Mktg Jobs
+os-dma@exchange.cobaltgroup.com|List- OS-DMA
+gmcurrentoffers@cobaltgroup.com|List- GM Current Offers
+osall@exchange.cobaltgroup.com|List- OnStation All
+subarunotify@exchange.cobaltgroup.com|List- Subaru Notify
+prospectorinvoice@exchange.cobaltgroup.com|List- Prospector Invoice
+seattle_contract@exchange.cobaltgroup.com|List- Seattle Contract
+prospectorforms2@exchange.cobaltgroup.com|List- Prospector Forms
+finance@no-filter.exchange.cobaltgroup.com|List- Finance
+admssladmin@cobaltgroup.com|List- AdMission SSL Admin
+admautobytel@no-filter.exchange.cobaltgroup.com|List- AdMission Autobytel
+osaccountspayable@cobaltgroup.com|List- OnStation Accounts Payable
+dbas@exchange.cobaltgroup.com|List- IT DBAS
+OOSExtracts-BGSubscription2010@exchange.cobaltgroup.com|List- OOS Extracts - BG Subscription 2010
+OOSExtracts-hyundaiprositeenrollment@exchange.cobaltgroup.com|List- OOS Extracts - Hyundai ProSite Enrollment
+prod_build_team@exchange.cobaltgroup.com|List- Production Builder Team
+hyundaidealerlocator@exchange.cobaltgroup.com|List- Hyundai Dealer Locator
+save@exchange.cobaltgroup.com|List- Saves
+appsdba@exchange.cobaltgroup.com|List- Apps DBA
+admssladmin@no-filter.exchange.cobaltgroup.com|List- AdMission SSL Admin
+ps-nissan-prog@exchange.cobaltgroup.com|List- PS Nissan Program
+polling_check@exchange.cobaltgroup.com|List- eCare Polling Check
+pdwebsitesdev@exchange.cobaltgroup.com|List- PD Websites Dev
+repollcdp@exchange.cobaltgroup.com|List- Repoll CDP
+foglightalerts@exchange.cobaltgroup.com|List- Foglight Alerts
+ddrsstaff@exchange.cobaltgroup.com|List- PDX-DDRSSTAFF
+austin@exchange.cobaltgroup.com|List- Austin
+ossyslog@exchange.cobaltgroup.com|List- OnStation Syslog
+ositsupport@cobaltgroup.com|List- OnStation IT Support
+cashmgmt@exchange.cobaltgroup.com|List- Finance Cash Mgmt
+sqlnotify@exchange.cobaltgroup.com|List- IT SQL Notification
+osdi@cobaltgroup.com|List- OnStation DI
+gcs@exchange.cobaltgroup.com|List- Global Client Services
+omexceptions@exchange.cobaltgroup.com|List- OM Exceptions
+gmleads@exchange.cobaltgroup.com|List- GM Leads
+invdev@exchange.cobaltgroup.com|List- InvDev
+marcomdevelopersbugzillareporting@exchange.cobaltgroup.com|List- Marcom Developers Bugzilla Reporting
+osauthenticomdi@exchange.cobaltgroup.com|List- OnStation AuthenticomDI
+hyundaidls@exchange.cobaltgroup.com|List- Hyundai DLS
+billing@exchange.cobaltgroup.com|List- Finance Billing
+ops@exchange.cobaltgroup.com|List- IT Operations-1
+vwgroup@exchange.cobaltgroup.com|List- Sales VW Group
+OOSExtracts-vwprocare@exchange.cobaltgroup.com|List- OOS Extracts - VW ProCare
+servicesemsdesignteam@exchange.cobaltgroup.com|List- Services EMS Design Team
+admabuse@cobaltgroup.com|List- AdMission Abuse
+nadainfo@exchange.cobaltgroup.com|List- Sales NADA Info
+osinfo@cobaltgroup.com|List- OnStation Info
+pvsaves@exchange.cobaltgroup.com|List- Parts Works Saves
+aswest@exchange.cobaltgroup.com|List- GCS West
+nocalerts@exchange.cobaltgroup.com|List- NOC Alerts
+osfinance@cobaltgroup.com|List- OnStation Finance
+ambassadors@exchange.cobaltgroup.com|List- Marketing Ambassadors
+oosextracts-dmscollectionform@exchange.cobaltgroup.com|List- OOS Extracts - DMS Collection Form
+employeechanges@exchange.cobaltgroup.com|List- Employee Changes
+osbackup@cobaltgroup.com|List- OnStation Backup
+mycartools@exchange.cobaltgroup.com|List- PM MyCarTools
+edsa@exchange.cobaltgroup.com|List- EDS Audi
+psdbrequests@exchange.cobaltgroup.com|List- PS DB Requests
+psgmpsdaily@exchange.cobaltgroup.com|List- PS GMPS Daily
+admlootreport@no-filter.exchange.cobaltgroup.com|List- Admission Loot Report
+osfax@cobaltgroup.com|List- OnStation Main eFax
+ecarep1@exchange.cobaltgroup.com|List- eCare P1Bug Notification
+osads@cobaltgroup.com|List- OnStation Ads
+dealernews@exchange.cobaltgroup.com|List- Dealer News
+dbarchs@exchange.cobaltgroup.com|List- DBArchs
+gmchromeaccessoriesreport@exchange.cobaltgroup.com|List- GM Chrome Accessories Report
+platservtest@exchange.cobaltgroup.com|platservtest
+amexcard@exchange.cobaltgroup.com|List- HR Amexcard
+osautocard@cobaltgroup.com|List- OnStation Autocard
+reception@exchange.cobaltgroup.com|List- Receptionists
+osauthenticomdi@cobaltgroup.com|List- OnStation AuthenticomDI
+pat@cobaltgroup.com|List- Process Advisory Team
+hostmaster@exchange.cobaltgroup.com|List- IT Hostmaster
+slxremotes@exchange.cobaltgroup.com|List- SLX Remote Users
+vwadwiz@exchange.cobaltgroup.com|List- GCS VW AdWiz
+e-orders@exchange.cobaltgroup.com|List- Sales Ops
+osproducts@cobaltgroup.com|List- OnStation Products
+invfeedsupport@exchange.cobaltgroup.com|List- Inv Feed Support
+devmgmt@exchange.cobaltgroup.com|List- Dev Mgmt
+inventorymonitoring@exchange.cobaltgroup.com|List- Inventory Monitoring
+prospectordev@exchange.cobaltgroup.com|List- Prospector DEV
+osautocard@exchange.cobaltgroup.com|List- OnStation Autocard
+osrackspace@exchange.cobaltgroup.com|List- OnStation RackSpace
+iroc@exchange.cobaltgroup.com|List- IROC
+invops@exchange.cobaltgroup.com|List- InvOps
+admopsnotify@cobaltgroup.com|List- AdMission Ops Notify
+osfieldsales@cobaltgroup.com|List- OnStation Field Sales
+admit@no-filter.exchange.cobaltgroup.com|List- AdMission IT
+osfinance@exchange.cobaltgroup.com|List- OnStation Finance
+caapproductteam@exchange.cobaltgroup.com|List- CAAP Product Team
+ps-hummer-prog@exchange.cobaltgroup.com|List- PS Hummer Program
+admintegrationgroup@no-filter.exchange.cobaltgroup.com|List- AdMission Integration Group
+osaftermarketisr@exchange.cobaltgroup.com|List- OnStation Aftermarket ISR
+esmhelp@exchange.cobaltgroup.com|List- ESM Help
+ossample@exchange.cobaltgroup.com|List- OnStation Sample
+aus-employees@exchange.cobaltgroup.com|List- Austin Employees
+all@exchange.cobaltgroup.com|List- All
+List-OS-Implementation@exchange.cobaltgroup.com|List- OS-Implementation
+datafixhelp@exchange.cobaltgroup.com|List- Help Datafix
+osinfo@exchange.cobaltgroup.com|List- OnStation Info
+admmailqueue@cobaltgroup.com|List- AdMission Mail Queue
+orientation@exchange.cobaltgroup.com|List- HR Newhire Orientation
+ossalesforceadmin@cobaltgroup.com|List- OnStation Salesforce Admin
+osbod@exchange.cobaltgroup.com|List- OnStation BOD
+os-dma@no-filter.exchange.cobaltgroup.com|List- OS-DMA
+rockstar@exchange.cobaltgroup.com|List- Rockstar
+dbteam@exchange.cobaltgroup.com|List- IS DBTeam
+ositvendors@exchange.cobaltgroup.com|List- OnStation IT Vendors
+ps-kia-prog@exchange.cobaltgroup.com|List- PS Kia Program
+OOSExtracts-gmprocare@exchange.cobaltgroup.com|List- OOS Extracts - GM ProCare
+admvball@no-filter.exchange.cobaltgroup.com|List- AdMission Vball
+exec@exchange.cobaltgroup.com|List- EXECS
+enterprisesaleslexus@exchange.cobaltgroup.com|List- Enterprise Sales Lexus
+admjobs@no-filter.exchange.cobaltgroup.com|List- AdMission Jobs
+gmdidenroll@exchange.cobaltgroup.com|List- GMDID Enrollment Administrators
+admcreativeservices@cobaltgroup.com|List- AdMission Creative Services
+admsupport@cobaltgroup.com|List- AdMission Support
+it-tools@exchange.cobaltgroup.com|List- IT Tools
+productactivation@exchange.cobaltgroup.com|Productactivation@cobaltgroup.com
+gmpromotionsteam@exchange.cobaltgroup.com|List- GM Promotions Team
+admorders@cobaltgroup.com|List- AdMission Orders
+invbugs@exchange.cobaltgroup.com|List- InvBugs
+kbbpricelink@exchange.cobaltgroup.com|List- KBB PriceLink
+intelligenceops@exchange.cobaltgroup.com|List- Intelligence Ops
+ifsdept@exchange.cobaltgroup.com|List- IFS Dept
+internet@exchange.cobaltgroup.com|List- Internet@Cobalt
+listdev@exchange.cobaltgroup.com|List- DEV
+ossample@cobaltgroup.com|List- OnStation Sample
+austinpager@exchange.cobaltgroup.com|List- Austin Pager
+osengineering@cobaltgroup.com|List- OnStation Engineering
+pvvisitleads@exchange.cobaltgroup.com|List- PartsVoice Dealer Leads
+uag@exchange.cobaltgroup.com|List- GCS UAG
+subarualerts@exchange.cobaltgroup.com|List- Subaru Alerts
+osdealersupport@cobaltgroup.com|List- OnStation Dealer Support
+hendricknitra@exchange.cobaltgroup.com|List- Nitra Hendrick
+osinsidesales@cobaltgroup.com|List- OnStation Inside Sales
+WebSites3.0Reporting@exchange.cobaltgroup.com|List- Web Sites 3.0 Reporting
+apptech@exchange.cobaltgroup.com|List- IT Apptech
+osdealersales@cobaltgroup.com|List- OnStation Dealer Sales
+emystery@no-filter.exchange.cobaltgroup.com|List- eMystery
+biketowork@exchange.cobaltgroup.com|List- Bike to Work
+OracleOEMAlerts@exchange.cobaltgroup.com|List- Oracle OEM Alerts
+nitra_admin@exchange.cobaltgroup.com|List- Nitra Admin
+osmktgjobs@cobaltgroup.com|List- OnStation Mktg Jobs
+osdeployment@exchange.cobaltgroup.com|List- OnStation Deployment
+partsmarketing@exchange.cobaltgroup.com|List- Parts Marketing
+crmpromo@exchange.cobaltgroup.com|List- CRM Promotion
+cobaltsecurity@exchange.cobaltgroup.com|List- Cobalt Security
+dev@exchange.cobaltgroup.com|List- PS DEV
+osit@cobaltgroup.com|List- OnStation IT
+saturnenrollments@exchange.cobaltgroup.com|List- Saturn Enrollments
+framein_request@exchange.cobaltgroup.com|List- FrameIn Request
+ifsspecialprojects@exchange.cobaltgroup.com|List- IFS Special Projects
+weblogic@cobaltgroup.com|List- IT Weblogic
+admhelptickets@cobaltgroup.com|List- AdMission Help Tickets
+weblogic@exchange.cobaltgroup.com|List- IT Weblogic
+vahaleads@exchange.cobaltgroup.com|List- VAHA Team Leads
+isitqa@exchange.cobaltgroup.com|List- QA IS/IT
+outages2@exchange.cobaltgroup.com|List- Outages Enhanced
+executiveescalation@exchange.cobaltgroup.com|List- Executive Escalation
+itsecurity@exchange.cobaltgroup.com|List- IT Security
+osdev@cobaltgroup.com|List- OnStation Dev
+admswdev@cobaltgroup.com|List- AdMission Software Dev
+wca@exchange.cobaltgroup.com|List- Customer Services TSRs
+ossales@exchange.cobaltgroup.com|List- OnStation Sales
+gcsclientexecs@exchange.cobaltgroup.com|List- GCS Client Executives
+psgmleadissues@exchange.cobaltgroup.com|List- PS GM Lead Issues
+osjobs@exchange.cobaltgroup.com|List- OnStation Jobs
+batupdates@exchange.cobaltgroup.com|List- BAT Updates
+ps-honda-prog@exchange.cobaltgroup.com|List- PS Honda Program
+OOSTechnicalSupport@exchange.cobaltgroup.com|List- OOS Technical Support
+bizdev@cobaltgroup.com|List- BizDev
+osaccountspayable@exchange.cobaltgroup.com|List- OnStation Accounts Payable
+edealer_academy@exchange.cobaltgroup.com|List- Cobalt U
+casesupport@exchange.cobaltgroup.com|List- Case_Support
+admengineering@cobaltgroup.com|List- AdMission Engineering
+gmmsg@exchange.cobaltgroup.com|List- GM Message
+salesops@exchange.cobaltgroup.com|List- Sales Ops
+itoperationsalerts@exchange.cobaltgroup.com|List- IT Operations Alerts
+dbhelp@exchange.cobaltgroup.com|List- Help DB
+admcreativeservices@no-filter.exchange.cobaltgroup.com|List- AdMission Creative Services
+ftpupdate@exchange.cobaltgroup.com|List- FTP Update
+cssurveyalerts@exchange.cobaltgroup.com|List- CS Survey Alerts
+admit@cobaltgroup.com|List- AdMission IT
+nadaattendees@exchange.cobaltgroup.com|List- NADA Attendees
+insalerad@exchange.cobaltgroup.com|List- Sales Inside Sales RAD
+oracleappssupport@exchange.cobaltgroup.com|List- Oracle Apps Support
+osdi@exchange.cobaltgroup.com|List- OnStation DI
+osxstaff@exchange.cobaltgroup.com|List- OnStation xstaff
+bizopsmail@exchange.cobaltgroup.com|List- BizOpsMail
+admqajobs@cobaltgroup.com|List- AdMission QA Jobs
+abuit-ccb@exchange.cobaltgroup.com|List- ABU IT CCB
+projectoffice@exchange.cobaltgroup.com|List- PS Proj Mgmt
+secchange@exchange.cobaltgroup.com|List- IT Sec Change
+gmdwp@exchange.cobaltgroup.com|List- BizDev GM DWP
+architecture@exchange.cobaltgroup.com|List- Architecture
+3rdpartygreatdata@exchange.cobaltgroup.com|List- 3rd Party GreatData
+bzupgrade@exchange.cobaltgroup.com|List- BZ Upgrade
+onstationdataops@exchange.cobaltgroup.com|List- OnStation Data Ops
+fasttrack@exchange.cobaltgroup.com|List- PS FastTrack
+osnada@cobaltgroup.com|List- OnStation Nada
+systems-update@exchange.cobaltgroup.com|List- Systems Update
+abusystemsengineering@exchange.cobaltgroup.com|List- ABU Systems Engineering
+admops@no-filter.exchange.cobaltgroup.com|List- AdMission Ops
+ps-infiniti-prog@exchange.cobaltgroup.com|List- PS Infiniti Program
+bat-leads@exchange.cobaltgroup.com|List- BAT Leads
+cadillacincentives@exchange.cobaltgroup.com|List- Cadillac Incentives
+ositvendors@cobaltgroup.com|List- OnStation IT Vendors
+infiniti@exchange.cobaltgroup.com|List- GCS Infiniti
+traffic@exchange.cobaltgroup.com|List- Marcom Traffic
+hr@exchange.cobaltgroup.com|List- HR
+devleads@exchange.cobaltgroup.com|List- PS DEV Leads
+list-corporateitengineering@exchange.cobaltgroup.com|List- Corporate IT Engineering
+mitsubishi@exchange.cobaltgroup.com|List- GCS Mitsu
+competitiveintelligence@exchange.cobaltgroup.com|List- Competitive Intelligence
+accounts@exchange.cobaltgroup.com|List- IT Accounts
+marketingsurveys@exchange.cobaltgroup.com|List- Marketing Surveys
+bp@exchange.cobaltgroup.com|List- PS Bulk Proof and Publish
+b-gmpsapps@exchange.Cobaltgroup.com|List- GM PS Apps
+admnetsol@cobaltgroup.com|List- AdMission Netsol
+production_support@exchange.cobaltgroup.com|List- IS Production Support
+salesforcemonitoring@exchange.cobaltgroup.com|List- Sales Force Monitoring
+recruitingsupport@exchange.cobaltgroup.com|List- HR Recruiting Support
+osqaauto@exchange.cobaltgroup.com|List- OnStation QAAuto
+newaccount@exchange.cobaltgroup.com|List- New Account
+sitechange@exchange.cobaltgroup.com|List- Ops Site Change
+osaftermarketisr@cobaltgroup.com|List- OnStation Aftermarket ISR
+cgiapptech@exchange.cobaltgroup.com|List- CGI AppTech
+idlestock@exchange.cobaltgroup.com|List- PDX-IdleStock
+zipupdate@exchange.cobaltgroup.com|List- IS DBTeam
+it-pm@exchange.cobaltgroup.com|List- IT PM
+chrysler@exchange.cobaltgroup.com|List- Sales Chrysler
+bugzilla@exchange.cobaltgroup.com|List- Bugzilla
+autoexchange@exchange.cobaltgroup.com|List- AutoExchange
+pslasdaily@exchange.cobaltgroup.com|List- PS LAS Daily
+pvintranet@exchange.cobaltgroup.com|List- Parts Works Intranet
+execs@exchange.cobaltgroup.com|List- EXECS
+admengineering@no-filter.exchange.cobaltgroup.com|List- AdMission Engineering
+osexec@exchange.cobaltgroup.com|List- OnStation Exec
+support@exchange.cobaltgroup.com|List- eCare Support
+anforum@no-filter.exchange.cobaltgroup.com|List- Automotive News Forums
+hyundaiprogramsignup@exchange.cobaltgroup.com|List- Hyundai Program Signup
+nitraccb@exchange.cobaltgroup.com|List- Nitra CCB
+prodrel@exchange.cobaltgroup.com|List- Production Release
+OOSExtracts-ChevroletSubscription2010@exchange.cobaltgroup.com|List- OOS Extracts - Chevrolet Subscription 2010
+cobrands@exchange.cobaltgroup.com|List- BizDev Cobrands
+outages@exchange.cobaltgroup.com|List- Systems Outages
+ifsdomains@exchange.cobaltgroup.com|List- IFS Domains
+marcomjobstart@exchange.cobaltgroup.com|List- Marcom Job Start
+noc@exchange.cobaltgroup.com|List- IT NOC
+admnetsol@no-filter.exchange.cobaltgroup.com|List- AdMission Netsol
+csahsupport@exchange.cobaltgroup.com|List- CS AH Support
+admqa@cobaltgroup.com|List- AdMission QA
+ifsbugs@exchange.cobaltgroup.com|List- IFS Bugs
+ps-audi-prog@exchange.cobaltgroup.com|List- PS Audi Program
+admtory.blue.page@cobaltgroup.com|tory.blue.page
+kiaissues@exchange.cobaltgroup.com|List- DAS Kia Issues
+psbmwcpoprogram@exchange.cobaltgroup.com|List- PS BMW CPO Program
+inventory@exchange.cobaltgroup.com|List- PM Inventory
+bat-admin@exchange.cobaltgroup.com|List- BAT Admin
+admhelptickets@no-filter.exchange.cobaltgroup.com|List- AdMission Help Tickets
+osdeployment@cobaltgroup.com|List- OnStation Deployment
+dailyactivations@exchange.cobaltgroup.com|List- IS DailyActivations
+securitylog@exchange.cobaltgroup.com|List- IT Security Log
+gmpromo@exchange.cobaltgroup.com|List- GM Promo
+boardplus@exchange.cobaltgroup.com|List- Cobalt Board Plus
+psqaaudileads@exchange.cobaltgroup.com|List- PS QA Audi Leads
+cfsc@exchange.cobaltgroup.com|List- EDSDCX
+admintegrationtickets@no-filter.exchange.cobaltgroup.com|List- AdMission Integration Tickets
+admmailqueue@no-filter.exchange.cobaltgroup.com|List- AdMission Mail Queue
+itpagerack@exchange.cobaltgroup.com|List- IT Pager Ack
+cm@exchange.cobaltgroup.com|List- CM
+ptstatus@exchange.cobaltgroup.com|List- Product Team Status
+leadsetup@exchange.cobaltgroup.com|List- Prospector Lead Setup
+psbmwprogram@exchange.cobaltgroup.com|List- PS BMW Program
+vwdifferences@exchange.cobaltgroup.com|List- Sales VW Differences
+List-OS-OMS@exchange.cobaltgroup.com|List- OS-OMS
+opsaupviolation@no-filter.exchange.cobaltgroup.com|List- IT Ops AUP Violation
+ossyslog@cobaltgroup.com|List- OnStation Syslog
+fivestardisclaimers@exchange.cobaltgroup.com|List- GCS FiveStarDisclaimers
+mediaservices@exchange.cobaltgroup.com|List- Media Services
+SEMYahooOps@exchange.Cobaltgroup.com|List- SEM Yahoo Ops
+marcom@exchange.cobaltgroup.com|List- Marcom
+ps-saturn-prog@exchange.cobaltgroup.com|List- PS Saturn Program
+ecrmbugs@exchange.cobaltgroup.com|List- eCRM Bugs
+ps-toyota-prog@exchange.cobaltgroup.com|List- PS Toyota Program
+osnada@exchange.cobaltgroup.com|List- OnStation Nada
+osxstaff@cobaltgroup.com|List- OnStation xstaff
+semproject@exchange.cobaltgroup.com|List- SEM Project
+slxworkg@exchange.cobaltgroup.com|List- SLX WorkG Users
+lmuptime@exchange.cobaltgroup.com|List- LM Uptime
+oemdata@exchange.cobaltgroup.com|List- PDX OEM Data
+ps-lexus-prog@exchange.cobaltgroup.com|List- PS Lexus Program
+vwsetup@exchange.cobaltgroup.com|List- Sales VW Setup
+admonitor@no-filter.exchange.cobaltgroup.com|List- AdMission Monitor
+sec-list@exchange.cobaltgroup.com|List- IT SEC
+dpischedrequests@exchange.cobaltgroup.com|List- Help DPI
+dealerescalation@exchange.cobaltgroup.com|List- CS Dealer Escalations
+gmalert@exchange.cobaltgroup.com|List- GM Alert
+dapissue@exchange.cobaltgroup.com|List- DAP Issue
+ps-vw-prog@exchange.cobaltgroup.com|List- PS VW Program
+anforum@cobaltgroup.com|List- Automotive News Forums
+qconstation@exchange.cobaltgroup.com|List- QC On Station
+ifsbuilders@exchange.cobaltgroup.com|List- IFS Builders
+infochanges@exchange.cobaltgroup.com|List- HR Info Changes
+admabuse@no-filter.exchange.cobaltgroup.com|List- AdMission Abuse
+ecareminisupport@no-filter.exchange.cobaltgroup.com|List- Customer Services MINI Support
+daleads@exchange.cobaltgroup.com|List- DA Leads
+lexdev@exchange.cobaltgroup.com|List- PS LexDev
+customerservicespartnersupport@exchange.cobaltgroup.com|List- Customer Services Partner Support
+salesservicecommunication@exchange.cobaltgroup.com|List- Sales Service Communication
+osemarketing@cobaltgroup.com|List- OnStation eMarketing
+suns@exchange.cobaltgroup.com|List- IT Sun Admins
+n2o@exchange.cobaltgroup.com|List- Nitra N2O
+admissiondisplaypilotorders@no-filter.exchange.cobaltgroup.com|List- AdMission Display Pilot Orders
+italerts@exchange.cobaltgroup.com|List- IT Alerts
+dapoperations@exchange.cobaltgroup.com|List- DAP Operations
+devps@exchange.cobaltgroup.com|List- Dev PS
+psvolvoprogram@exchange.cobaltgroup.com|List- PS Volvo Program
+devcorepegasus@exchange.cobaltgroup.com|List- Dev CORE Pegasus
+osbilling@exchange.cobaltgroup.com|List- OnStation Billing
+ntadmin@exchange.cobaltgroup.com|List- IT NT Admins
+lexus_lm2.9_migration_team@exchange.cobaltgroup.com|List- Lexus LM2.9 Migration Team
+board@exchange.cobaltgroup.com|List- Cobalt Board
+coremobile@exchange.cobaltgroup.com|List- Core Mobile
+vwcanada@exchange.cobaltgroup.com|List- Sales VW Canada
+oscreative@exchange.cobaltgroup.com|List- OnStation Creative
+marketingemails@exchange.cobaltgroup.com|List- Marketing Emails
+prospectorhelp@exchange.cobaltgroup.com|List- Prospector Help
+onstationdbas@exchange.cobaltgroup.com|List- Onstation DBAs
+osbod@cobaltgroup.com|List- OnStation BOD
+seattle@exchange.cobaltgroup.com|List- Seattle
+ossalesforceadmin@exchange.cobaltgroup.com|List- OnStation Salesforce Admin
+gmchromeenrollment@exchange.cobaltgroup.com|List- GM Chrome Enrollment
+ifsmgmt@exchange.cobaltgroup.com|List- IFS Mgmt
+list-johnsstaff@exchange.cobaltgroup.com|List- John's Staff
+pssubaruoperations@exchange.cobaltgroup.com|List- PS Subaru Operations
+daserrp@exchange.cobaltgroup.com|List- DAS ERRP
+newhires@exchange.cobaltgroup.com|List- Newhires
+invdev@cobaltgroup.com|List- InvDev
+lexuscoaches@exchange.cobaltgroup.com|List- Lexus Coaches
+psdevlexusbackend@exchange.cobaltgroup.com|List- PS Dev Lexus Backend
+ahmps@exchange.cobaltgroup.com|List- AHM PS
+onstationcollections@exchange.cobaltgroup.com|List- OnStation Collections
+ilearninghelp@exchange.cobaltgroup.com|List- iLearning Help
+barracuda_admin@exchange.cobaltgroup.com|List- IT Barracuda Admin
+admrdominypage@no-filter.exchange.cobaltgroup.com|rdominypage
+devtopics@exchange.cobaltgroup.com|List- Dev Topics
+osdealersales@exchange.cobaltgroup.com|List- OnStation Dealer Sales
+collections@exchange.cobaltgroup.com|List- Credit/ Collections Dept.
+ecareaccountadvocates@exchange.cobaltgroup.com|List- Customer Services Account Advocates
+enterprisesalesgm@exchange.cobaltgroup.com|List- Enterprise Sales GM
+osdealerisr@cobaltgroup.com|List- OnStation Dealer ISR
+admpostmaster@no-filter.exchange.cobaltgroup.com|List- AdMission Postmaster
+castironadmin@exchange.cobaltgroup.com|List- Cast Iron Admin
+csg@exchange.cobaltgroup.com|List- Customer Services ETS
+osproducts@exchange.cobaltgroup.com|List- OnStation Products
+press2@exchange.cobaltgroup.com|List- Press
+admsupport@no-filter.exchange.cobaltgroup.com|List- AdMission Support
+dataproductsoncall@exchange.cobaltgroup.com|List- Data Products On Call
+quality@exchange.cobaltgroup.com|List- Customer Services Quality Team
+onstationdbas@no-filter.exchange.cobaltgroup.com|List- Onstation DBAs
+SEMDev@exchange.cobaltgroup.com|List- SEM Dev
+list-semengineering@exchange.cobaltgroup.com|List- SEM Engineering
+admtory.blue.page@no-filter.exchange.cobaltgroup.com|tory.blue.page
+osemarketing@exchange.cobaltgroup.com|List- OnStation eMarketing
+admopssev2@no-filter.exchange.cobaltgroup.com|List- AdMission Ops Sev2
+omteam@exchange.cobaltgroup.com|List- Production Order Mgmt Team
+ossupport@cobaltgroup.com|List- OnStation Support
+admopspgr@cobaltgroup.com|List- AdMission Ops Pager
+devwebsites@exchange.cobaltgroup.com|List- Dev Websites
+OOSExtracts-CadillacSubscription2010@exchange.cobaltgroup.com|List- OOS Extracts - Cadillac Subscription 2010
+prodmktg@exchange.cobaltgroup.com|List- Product Marketing
+osbilling@cobaltgroup.com|List- OnStation Billing
+dailyleadssourcereports@exchange.cobaltgroup.com|List- IT Daily Leads Source Reports
+pvsalesleads@exchange.cobaltgroup.com|List- Parts Works Sales Leads
+osqa@cobaltgroup.com|List- OnStation QA
+gmcurrentoffers@no-filter.exchange.cobaltgroup.com|List- GM Current Offers
+oshotlist@cobaltgroup.com|List- OnStation Hotlist
+oosextract-hyundai-subscription-2010@exchange.cobaltgroup.com|List- OOS Extract - Hyundai Subscription 2010
+dpcore@exchange.cobaltgroup.com|List- Data Products Core
+osengineering@exchange.cobaltgroup.com|List- OnStation Engineering
+das@exchange.cobaltgroup.com|List- DAS
+psgmcanada@exchange.cobaltgroup.com|List- PS GM Canada
+financebars@exchange.cobaltgroup.com|List- Finance BARS
+bizdev@exchange.cobaltgroup.com|List- BizDev
+admorders@no-filter.exchange.cobaltgroup.com|List- AdMission Orders
+3rdpartyoutages@exchange.cobaltgroup.com|List- eCare 3rdPartyOutages
+isapps-error@exchange.cobaltgroup.com|List- IS App Error
+listdevleads@exchange.cobaltgroup.com|List- DEV Leads
+csproposal@exchange.cobaltgroup.com|List- PO CSProposal
+semscrum@exchange.cobaltgroup.com|List- SEM Scrum
+csfrenchsupport@exchange.cobaltgroup.com|List- CS French Support
+stratdev@exchange.cobaltgroup.com|List- StratDev
+directors@exchange.cobaltgroup.com|List- Directors
+itopsmon@exchange.cobaltgroup.com|List- IT Operations Monitoring
+nitrawsmtest@exchange.cobaltgroup.com|List- PM Nitra WSMTest
+osbackup@exchange.cobaltgroup.com|List- OnStation Backup
+lmschange@exchange.cobaltgroup.com|List- LMS Change
+gcsmgmt@exchange.cobaltgroup.com|List- GCS Mgmt
+cobalt.comwebmaster@no-filter.exchange.cobaltgroup.com|List- Cobalt.com Webmaster
+avadmin@exchange.cobaltgroup.com|List- IT AV Admins
+pwbuild@exchange.cobaltgroup.com|List- PartsWorks Build
+osinsidesales@exchange.cobaltgroup.com|List- OnStation Inside Sales
+jobs@exchange.cobaltgroup.com|List- HR Jobs
+salesopsnotify@exchange.cobaltgroup.com|List- Sales Ops Notify
+procaremanagement@exchange.cobaltgroup.com|List- Customer Services ProCare Mgmt Team
+ecaremanage@exchange.cobaltgroup.com|List- Services Management Team
+officeman@exchange.cobaltgroup.com|List- Office Managers
+cobaltnews@exchange.cobaltgroup.com|List- Cobalt news

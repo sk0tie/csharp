@@ -1,0 +1,14 @@
+C:\Users\wilcoxs\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wilcoxs\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\wilcoxs\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\wilcoxs\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wilcoxs\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wilcoxs\documents\visual studio 2010\Projects\swxBackup\swxBackup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wilcoxs\documents\visual studio 2010\Projects\swxBackup\swxBackup\obj\x86\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\wilcoxs\documents\visual studio 2010\Projects\swxBackup\swxBackup\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\wilcoxs\documents\visual studio 2010\Projects\swxBackup\swxBackup\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wilcoxs\documents\visual studio 2010\Projects\swxBackup\swxBackup\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wilcoxs\documents\visual studio 2010\Projects\swxBackup\swxBackup\bin\Debug\swxBackup.exe
+C:\Users\wilcoxs\documents\visual studio 2010\Projects\swxBackup\swxBackup\bin\Debug\swxBackup.pdb
+C:\Users\wilcoxs\documents\visual studio 2010\Projects\swxBackup\swxBackup\obj\x86\Debug\swxBackup.exe
+C:\Users\wilcoxs\documents\visual studio 2010\Projects\swxBackup\swxBackup\obj\x86\Debug\swxBackup.pdb
